@@ -1,0 +1,25 @@
+WHT9874.fits[500,2100][ushort]: NGC1068
+WHT9876.fits[500,2100][ushort]: NGC1068
+WHT9878.fits[500,2100][ushort]: NGC1068
+WHT9883.fits[500,2100][ushort]: NGC1068
+WHT9885.fits[500,2100][ushort]: NGC1068
+WHT9887.fits[500,2100][ushort]: NGC1068
+WHT9899.fits[500,2100][ushort]: ARC BLUE
+WHT9911.fits[500,2100][ushort]: FLAT BLUE 5
+WHT9914.fits[500,2100][ushort]: FLAT 5
+WHT9920.fits[500,2100][ushort]: FLAT BLUE
+WHT9923.fits[500,2100][ushort]: FLAT BLUE
+WHT9958.fits[500,2100][ushort]: hd93521
+WHT9983.fits[500,2100][ushort]: BLANK3
+WHT9985.fits[500,2100][ushort]: BLANK3
+WHT9987.fits[500,2100][ushort]: BLANK3
+WHT9989.fits[500,2100][ushort]: BLANK3
+WHT9991.fits[500,2100][ushort]: BIAS
+WHT9992.fits[500,2100][ushort]: BIAS
+WHT9993.fits[500,2100][ushort]: BIAS
+WHT9994.fits[500,2100][ushort]: BIAS
+WHT9995.fits[500,2100][ushort]: BIAS
+WHT9996.fits[500,2100][ushort]: BIAS
+WHT9997.fits[500,2100][ushort]: BIAS
+WHT9998.fits[500,2100][ushort]: BIAS
+WHT9999.fits[500,2100][ushort]: BIAS

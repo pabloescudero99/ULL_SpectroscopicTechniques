@@ -1,0 +1,11 @@
+TELLURIC:
+  Output: sn05kl_telcorr - A:sn05kl
+  Input: sn05kl_cal - A:sn05kl
+  Calibration: abs_BD402534_tel - A:bd402534
+  Tweak: shift = 0.00, scale = 0.306, normalization = 0.9829
+TELLURIC:
+  Output: sn05kl_telcorr - A:sn05kl
+  Input: sn05kl_cal - A:sn05kl
+  Calibration: abs_BD402534_tel - A:bd402534
+  Tweak: shift = -0.62, scale = 0.586, normalization = 0.968
+  WARNING: 1 pixels outside of calibration limits

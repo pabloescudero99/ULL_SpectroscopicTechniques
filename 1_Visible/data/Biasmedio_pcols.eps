@@ -1,0 +1,694 @@
+%!PS-Adobe-1.0 
+%%Creator: PSIKern - An IRAF GKI Translator 
+%%CreationDate: Thu 15:38:12 25-Jan-2024 
+%%DocumentFonts: (atend) 
+%%Pages: (atend) 
+%%BoundingBox: 2 2 557 737 
+%%EndComments 
+/MAXNDC 4095 def /PageSizeXMeter 0.2594 def /PageSizeYMeter 0.1959 def 
+/PageOffXMeter 0.001 def /PageOffYMeter 0.001 def 
+/PortraitMode false def /PortraitRotation 0. def 
+/LandScapeRotation 90. def /GT_LEFT 2 def /GT_RIGHT 3 def 
+/GT_TOP 6 def /GT_BOTTOM 7 def /GT_UP 4 def /GT_DOWN 5 def 
+/GT_CENTER 1 def /RF /Times-Roman def /GF /Symbol def 
+/IF /Times-Italic def /BF /Times-Bold def /DASH 49 def /DOT 4 def 
+/SPACE 24 def 
+
+% How to define things.
+/BD { bind def } bind def 
+/LD { load def } bind def
+
+% Constants
+/yes true def
+/no false def
+
+% Define some shorthand instructions.
+/GRS /grestore LD 
+/GS /gsave LD 
+/MK /mark LD
+/R /restore LD 
+/S /save LD
+/SH /showpage LD 
+/SW /setlinewidth LD
+
+% Measurement conversions.
+/PointperMeter 2834.64 def
+/MonoScale .7 def
+
+% PDF mark definition to avoid errors in printing Postscript
+/pdfmark where {pop} {userdict /pdfmark /cleartomark load put} ifelse
+/languagelevel where {pop languagelevel }{1} ifelse
+2 lt {
+    userdict (<<) cvn ([) cvn load put
+    userdict (>>) cvn (]) cvn load put
+} if
+
+% SR: Set current path to page: - -> -
+/DG true store
+/SR { DG {1 setlinecap} {0 setlinecap} ifelse 
+  currentpoint stroke moveto /DG true store
+} BD
+
+% CL: CLear the page: - -> -
+/CL { restore showpage grestore } BD
+
+% rectfill : Fill a rectangle: x y width height -> -
+/rectfill where
+  {pop}
+  {/rectfill {
+	gsave
+	newpath
+	4 2 roll
+	moveto
+	exch dup 0 rlineto
+	exch 0 exch rlineto
+	neg 0 rlineto
+	closepath
+	fill
+	grestore
+    } BD
+  } ifelse
+
+% SetBack: Set the background:
+/SetBack {
+    /BACKCOLOR where {
+	pop BACKCOLOR SC 0 0 MAXNDC MAXNDC rectfill
+    } if
+} BD
+
+% NP: Start a new page:
+/NP {
+	gsave
+	save
+	SetBack
+} BD
+
+% RC: Read Coordinates: string -> x y
+/RC {
+  currentfile read pop 8#77 and 6 bitshift
+  currentfile read pop 8#77 and or
+  currentfile read pop 8#77 and 6 bitshift
+  currentfile read pop 8#77 and or
+} BD
+
+% DO - Determine Offset: length -> offset
+/DO { DS dup 0 eq { pop pop 0 } { mod } ifelse } BD
+
+% M: Move: M string -> -
+% Move to a point and clear length of path.
+/CX 0 def
+/CY 0 def
+/M { RC 2 copy /CY exch def /CX exch def moveto CT OF setdash } BD
+
+% D: Draw: D string -> -
+% This also calculates the length of the current path.
+/OF 0 def
+/D { RC DS 0 ne { 2 copy currentpoint exch 4 1 roll sub dup mul 3 1 roll 
+   sub dup mul add sqrt round OF add cvi DO /OF exch store } if
+   DG { 2 copy CY eq exch CX eq and /DG exch def } if
+   lineto 
+} BD
+
+% Character/Font definitions.
+
+% FS -- Define the current font size: xsize ysize FS -
+/FontXSize 0 def /FontYSize 0 def /NewFont true def
+/FS { /FontYSize exch MonoScale mul store /FontXSize exch MonoScale mul store 
+      /NewFont true store } BD
+
+% PH -- Set the current path: path PH -
+/Path 0 def
+/PH { /Path exch store } BD
+
+% PA -- Set the path angle of the text: angle PA -
+/Angle 0 def
+/PA { 360 mod dup 0 lt { 360 add } if /Angle exch store /NewFont true store } BD
+
+% HJ, VJ -- Set Horizontal/Verticle Justification: just HJ/VJ -
+/HorzJust 0 def /VertJust 0 def
+/HJ { /HorzJust exch store } BD /VJ { /VertJust exch store } BD
+
+% VT -- Use mono- or variable-spaced fonts: flag VT -
+/VT true def
+/VT { /Variable exch store } BD
+
+% SetFont -- Make the required font the default: font SetFont -
+% Note scale factor- This is to fill out monospaced better and match other
+% IRAF output.
+/Font () def
+/FontMatrix matrix def
+/SetFont {
+   dup Font ne NewFont or
+   { dup /Font exch store findfont 
+      Angle matrix rotate FontXSize MonoScale div FontYSize MonoScale div 
+      matrix scale matrix concatmatrix makefont setfont Angle matrix rotate 
+      FontXSize FontYSize matrix scale matrix concatmatrix /FontMatrix exch 
+      store 
+   } 
+   { pop } ifelse /NewFont false store
+} BD
+
+% StringWidth -- Determine path length of string: string StringWidth - xs ys
+/StringWidth { Path GT_RIGHT eq Variable and { stringwidth }
+   {  Path GT_RIGHT  eq { length } { pop 1 } ifelse 0 FontMatrix transform }
+   ifelse 
+} BD
+
+% MonoShow -- Write the string out in mono-spaced: string MonoShow -
+/MonoShow {
+  /t 1 string def 1 0 FontMatrix transform 
+  /dy exch def /dx exch def Path GT_RIGHT eq { /mx dx def /my dy def }
+  { 0 1 FontMatrix transform /my exch def /mx exch def } ifelse
+  { t 0 3 -1 roll put t dup stringwidth dy exch sub 2 div exch dx exch
+     sub 2 div exch gsave rmoveto show grestore  mx my rmoveto
+  } forall
+} BD
+
+% WS -- Draw the string: <mark> string font string ... DS -
+/*WSDict 13 dict def
+/WS { *WSDict begin
+   counttomark 2 idiv dup dup array /FontArray exch def
+   array /StringArray exch def 1 sub /NStrings exch def
+
+   NStrings -1 0 {
+      dup 4 1 roll exch StringArray 3 1 roll put FontArray 3 1 roll put
+   } for
+   pop
+
+   /XSize 0 def /YSize 0 def /NChars 0 def
+   0 1 NStrings {
+      dup FontArray exch get SetFont StringArray exch get dup
+      length NChars add /NChars exch def  StringWidth
+      YSize add /YSize exch def XSize add /XSize exch def
+   } for
+
+   /TAngle HorzJust GT_RIGHT eq
+   { Angle 180 add dup 360 ge { 360 sub } if } { Angle } ifelse def
+   0 TAngle 180 le HorzJust GT_CENTER eq or
+   { Angle sin FontYSize mul Path GT_UP eq { NChars mul } if add } if
+   TAngle 90 ge TAngle 270 le and HorzJust GT_CENTER eq or
+   { Path GT_RIGHT eq { XSize } { Angle cos FontXSize mul } ifelse sub } if
+   HorzJust GT_CENTER eq { .5 mul } if
+
+   /TAngle
+   VertJust GT_TOP eq { Angle 180 sub dup 0 lt { 360 add } if } { Angle } ifelse
+   def
+   0 TAngle 90 ge TAngle 270 le and VertJust GT_CENTER eq or
+   { Angle cos FontYSize mul Path GT_UP eq { NChars mul } if sub } if
+   TAngle 180 ge TAngle 360 le and VertJust GT_CENTER eq or
+ { Path GT_RIGHT eq { YSize } { Angle sin FontXSize mul } ifelse sub } if
+   VertJust GT_CENTER eq { .5 mul } if
+   rmoveto
+
+   0 1 NStrings {
+      dup FontArray exch get SetFont StringArray exch get
+      Path GT_RIGHT eq Variable and { show } { MonoShow } ifelse
+   } for
+
+   end
+} BD
+
+% Define the DASHED, DOTTED, DOTDASH patterns.
+/DS 0 def
+/LPS { 
+  /OF 0 store /DS 0 store 0 array 
+} BD
+/LPD {
+  /OF 0 store DASH SPACE 2 copy add /DS exch store 2 array astore 
+} BD
+/LPP {
+  /OF 0 store  DOT SPACE 2 copy add /DS exch store 2 array astore
+} BD
+/LDD {
+  /OF 0 store DOT SPACE DASH SPACE 4 copy add add add /DS exch store 
+  4 array astore
+} BD
+
+% LT - Set Line Type - array -> -
+/CT { currentdash pop } BD
+/LT { /CT exch store /OF 0 store } BD
+
+% SC - Set Color: color -> -
+/*SCDict 1 dict def
+/SC { *SCDict begin
+  /color exch def
+  GR color get 255 div GG color get 255 div GB color get 255 div setrgbcolor
+  end
+} BD
+
+% MI - Make Image LUT: table-name size MI hexstring -> -
+/MI { currentfile exch string readhexstring pop def } BD
+
+% Define the graphics color lookup table.
+/GR 16 MI FF00FF0000FF00FFFFB0FFF0D940F0F5
+/GG 16 MI FF0000FF00FFFF0080D0A6E670E082DE
+/GB 16 MI FF000000FF00FFFF4F61008CD6D1EFB3
+
+% Render an image when no image LUT has been define.
+/DefaultGrey { 
+  { currentfile inarr readhexstring pop } image 
+} BD
+
+% ColorImage - Produce an image by indexing into the Image Lookup Table.
+% There are two versions of this code- one for PostScript that has
+% the colorimage operator and one that doesn't.  If the PostScript doesn't
+% have colorimage, it is assumed that it can only produce black & white,
+% in which the Image LUT is combined to produce a single grey which is
+% then used as the image for the image operator.
+/colorimage where
+  { pop
+    /ColorImage {
+     { currentfile inarr readhexstring pop dup /inarr exch def
+       length 3 mul string /oarr exch def
+        0 1 inarr length 1 sub 
+        { /iindex exch def
+          /oindex iindex 3 mul def
+          oarr oindex IR inarr iindex get get put
+          oarr oindex 1 add IG inarr iindex get get put
+          oarr oindex 2 add IB inarr iindex get get put
+        } for
+        oarr
+      }
+      false 3 colorimage
+    } BD
+  }
+  { /ColorImage {
+      { currentfile inarr readhexstring pop dup /inarr exch def
+        length string /oarr exch def
+        0 1 inarr length 1 sub
+        { /iindex exch def
+          oarr iindex
+          IR inarr iindex get get 0.3 mul
+          IG inarr iindex get get 0.59 mul
+          IB inarr iindex get get 0.11 mul
+          add add round cvi dup 255 gt { pop 255 } if
+          put
+        } for
+        oarr
+      }
+      image
+    } BD
+  } 
+ifelse
+
+% PC: Put Cellarray: width height bitspersample matrix -> -
+/*PCdict 10 dict def
+/PC {
+  *PCdict begin
+  4 -1 roll dup /inarr exch string def 4 1 roll
+  /IR where {pop ColorImage} {DefaultGrey} ifelse
+  end
+} BD
+
+% Define the Hatch (fill area) styles. H1 and H2 are handled internally
+% by PSIKern.  Feel free to define more; there is no limit.
+/H3 <8888888888888888> def
+/H4 <ff000000ff000000> def
+/H5 <8844221188442211> def
+/H6 <1122448811224488> def
+
+% Setup for fill patterns.  This whole section of code is taken almost
+% directly from _PostScript Language: Tutorial and Cookbook_, Adobe Systems,
+% 1986 (the blue book).
+/setuserscreendict 22 dict def
+setuserscreendict begin
+  /tempctm matrix def
+  /temprot matrix def
+  /tempscale matrix def
+  
+  /concatprocs
+    { /proc2 exch cvlit def
+      /proc1 exch cvlit def
+      /newproc proc1 length proc2 length add
+        array def
+      newproc 0 proc1 putinterval
+      newproc proc1 length proc2 putinterval
+      newproc cvx
+    } def
+  
+  /resmatrix matrix def
+  /findresolution
+    { 72 0 resmatrix defaultmatrix dtransform
+      /yres exch def /xres exch def
+      xres dup mul yres dup mul add sqrt
+    } def
+  end
+
+/setuserscreen
+  { setuserscreendict begin
+      /spotfunction exch def
+      /screenangle exch def
+      /cellsize exch def
+      
+      /m tempctm currentmatrix def
+      /rm screenangle temprot rotate def
+      /sm cellsize dup tempscale scale def
+      
+      sm rm m m concatmatrix m concatmatrix pop      
+      1 0 m dtransform /y1 exch def /x1 exch def
+      
+      /veclength x1 dup mul y1 dup mul add sqrt def
+      /frequency findresolution veclength div def
+      
+      /newscreenangle y1 x1 atan def
+      
+      m 2 get m 1 get mul m 0 get m 3 get mul sub
+        0 gt
+        { {neg} /spotfunction load concatprocs
+            /spotfunction exch def
+        } if
+        
+      frequency newscreenangle /spotfunction load
+        setscreen
+    end
+  } def
+  
+/setpatterndict 18 dict def
+setpatterndict begin
+  /bitison
+    { /ybit exch def /xbit exch def
+      /bytevalue bstring ybit bwidth mul xbit 8 idiv
+        add get def
+      
+      /mask 1 7 xbit 8 mod sub bitshift def
+      bytevalue mask and 0 ne
+    } def
+  end
+  
+/bitpatternspotfunction
+  { setpatterndict begin
+    /y exch def /x exch def
+    
+    /xindex x 1 add 2 div bpside mul cvi def
+    /yindex y 1 add 2 div bpside mul cvi def
+    
+    xindex yindex bitison
+      { /onbits onbits 1 add def 1 }
+      { /offbits offbits 1 add def 0 }
+      ifelse
+    end
+  } def
+
+/setpattern
+  { setpatterndict begin
+    /cellsz exch def
+    /angle exch def
+    /bwidth exch def
+    /bpside exch def
+    /bstring exch def
+    
+    /onbits 0 def /offbits 0 def
+    cellsz angle /bitpatternspotfunction load
+      setuserscreen
+    { } settransfer
+    offbits offbits onbits add div setgray
+  end
+} def
+
+% SP: Set Pattern: pattern -> -
+/SP { 8 1 0 MAXNDC 100 div setpattern } BD
+
+% FI: Fill with Pattern: - -> -
+/FI { fill grestore } BD
+
+% Set the transformation matrix.
+/SS {
+  PointperMeter dup scale
+  PageOffXMeter
+  PortraitMode not
+    { PageSizeYMeter add }
+  if 
+  PageOffYMeter translate
+  PortraitMode 
+    { PortraitRotation rotate }
+    { LandScapeRotation rotate}
+  ifelse
+  PageSizeXMeter MAXNDC div PageSizeYMeter MAXNDC div scale
+  1 setlinejoin 0 setlinecap
+} BD
+
+% Save the current state of VM
+S
+/GR 16 MI FF00FF000000FFFFA02DFFEFD83FEDF4 /GG 16 MI 
+FF0000FF00FFFF00214FA5E570E082DD /GB 16 MI 
+FF000000FFFF00FFEF4F008CD6D1EDB2 SS S 
+%%EndProlog 
+%PSKOpenWorkStation 
+%%Page: 1 1 
+NP 
+9 SC GS M @@@@ D ??@@ D ???? D @@?? FI 0 SC GS M GLIY D xrIY D xr|N 
+D GL|N FI LPS LT 7 SW 4 SC M GLIY D IbIY D IbJG D IbIY D KyIY D KyJG 
+D KyIY D NPIY D NPJG D NPIY D PgIY D PgJG D PgIY D R~IY D R~Ju D R~IY 
+SR 0 PA 81.85751 108.2269 FS 3 PH 1 HJ 6 VJ yes VT M R?H] MK BF (500) 
+WS M R~IY D UVIY D UVJG D UVIY D WmIY D WmJG D WmIY D ZDIY D ZDJG 
+D ZDIY D \[IY D \[JG D \[IY D ^sIY D ^sJu D ^sIY SR M ^sH] MK BF 
+(1000) WS M ^sIY D aJIY D aJJG D aJIY D caIY D caJG D caIY D exIY 
+D exJG D exIY D hOIY D hOJG D hOIY D jgIY D jgJu D jgIY SR M jgH] MK 
+BF (1500) WS M jgIY D l~IY D l~JG D l~IY D oUIY D oUJG D oUIY D qlIY 
+D qlJG D qlIY D tCIY D tCJG D tCIY D v[IY D v[Ju D v[IY SR M v[H] MK 
+BF (2000) WS M v[IY D xrIY D xrJG D xrIY D xrIY SR 
+M xrIY D xrJ@ D xNJ@ D xrJ@ D xrLS D xNLS D xrLS D xrNf D xNNf D xrNf 
+D xrPz D wiPz D xrPz D xrSM D xNSM D xrSM D xrUa D xNUa D xrUa D xrWt 
+D xNWt D xrWt D xrZG D xNZG D xrZG D xr\[ D wi\[ D xr\[ D xr^n D xN^n 
+D xr^n D xraA D xNaA D xraA D xrcU D xNcU D xrcU D xreh D xNeh D xreh 
+D xrg{ D wig{ D xrg{ D xrjO D xNjO D xrjO D xrlb D xNlb D xrlb D xrnu 
+D xNnu D xrnu D xrqI D xNqI D xrqI D xrs\ D wis\ D xrs\ D xrup D xNup 
+D xrup D xrxC D xNxC D xrxC D xrzV D xNzV D xrzV D xr|N SR 
+M GLIY D GLJ@ D GpJ@ D GLJ@ D GLLS D GpLS D GLLS D GLNf D GpNf D GLNf 
+D GLPz D HTPz D GLPz SR 3 HJ 1 VJ M FsPz MK BF (950) WS M GLPz D GLSM 
+D GpSM D GLSM D GLUa D GpUa D GLUa D GLWt D GpWt D GLWt D GLZG D GpZG 
+D GLZG D GL\[ D HT\[ D GL\[ SR M Fs\[ MK BF (975) WS M GL\[ D GL^n 
+D Gp^n D GL^n D GLaA D GpaA D GLaA D GLcU D GpcU D GLcU D GLeh D Gpeh 
+D GLeh D GLg{ D HTg{ D GLg{ SR M Fsg{ MK BF (1000) WS M GLg{ D GLjO 
+D GpjO D GLjO D GLlb D Gplb D GLlb D GLnu D Gpnu D GLnu D GLqI D GpqI 
+D GLqI D GLs\ D HTs\ D GLs\ SR M Fss\ MK BF (1025) WS M GLs\ D GLup 
+D Gpup D GLup D GLxC D GpxC D GLxC D GLzV D GpzV D GLzV D GL|N SR 
+M GL|N D Ib|N D Ib{` D Ib|N D Ky|N D Ky{` D Ky|N D NP|N D NP{` D NP|N 
+D Pg|N D Pg{` D Pg|N D R~|N D R~zr D R~|N D UV|N D UV{` D UV|N D Wm|N 
+D Wm{` D Wm|N D ZD|N D ZD{` D ZD|N D \[|N D \[{` D \[|N D ^s|N D ^szr 
+D ^s|N D aJ|N D aJ{` D aJ|N D ca|N D ca{` D ca|N D ex|N D ex{` D ex|N 
+D hO|N D hO{` D hO|N D jg|N D jgzr D jg|N D l~|N D l~{` D l~|N D oU|N 
+D oU{` D oU|N D ql|N D ql{` D ql|N D tC|N D tC{` D tC|N D v[|N D v[zr 
+D v[|N D xr|N D xr{` D xr|N D xr|N SR 
+1 HJ 8 SC M _?Dl MK BF (Line \(pixels\)) WS 7 VJ M _?}J MK BF 
+(Biasmedio: columns 100 to 400) WS 
+3 SW 1 SC M GL_@ D GN|N D GO]n D GQVu D GRSW D GTQ` D GUPl D GWPS 
+D GXPC D GZO} D G[O} D G]O} D G^O? D G`PC D GaPD D GcPO D GdPK D GfPK 
+D GgPO D GiPJ D GjPK D GlPF D GmPN D GoPL D GpPJ D GrPH D GsPH D GuPH 
+D GvPG D GxPF D GyPI D G{PC D G}PC D G~PA D H@PB D HAPB D HCPC D HDO} 
+D HFP@ D HGO? D HIP@ D HJO} D HLO? D HMOu D HOOw D HPOu D HROv D HSOu 
+D HUOv D HVOr D HXOs D HYOt D H[Os D H\Ot D H^Oq D H_Ok D HaOo D HbOo 
+D HdOl D HeOl D HgOk D HhOi D HjOg D HkOe D HmOi D HnOh D HpOb D HqOd 
+D HsO^ D HtOb D HvOa D HwOa D HyO] D H{O` D H|Ob D H~Ob D H?Oc D IAO^ 
+D IBO^ D IDO` D IEO_ D IGOc D IHO` D IJOY D IKOZ D IMOZ D INOZ D IPOX 
+D IQOX D ISOV D ITOS D IVOU D IWOW D IYOS D IZOW D I\OS D I]OO D I_OR 
+D I`OS D IbOT D IcOT D IeOP D IfOM D IhOP D IiOO D IkOO D IlOR D InOT 
+D IoOP D IqOL D IrOS D ItOK D IuOR D IwOL D IxOL D IzON D I{OJ D I}OG 
+D I~OI D J@OF D JAOD D JCOJ D JDOG D JFOJ D JHOH D JIOC D JKOC D JLOF 
+D JNOJ D JOOG D JQOB D JROG D JTOH D JUOC D JWOC D JXOE D JZOC D J[OD 
+D J]OC D J^OC D J`OA D JaOB D JcOB D JdN? D JfOA D JgOA D JiN? D JjN} 
+D JlO@ D JmN| D JoNz D JpN? D JrOC D JsN? D JuN{ D JvO@ D JxOA D JyN~ 
+D J{N{ D J|Nz D J~N} D J?N~ D KAN~ D KBN} D KDN| D KFN? D KGN} D KIN} 
+D KJN} D KLNu D KMN| D KON{ D KPNz D KRNy D KSN| D KUNz D KVN| D KXN? 
+D KYN} D K[N? D K\N} D K^N| D K_Nz D KaOA D KbN{ D KdN~ D KeNz D KgNy 
+D KhNz D KjNy D KkN{ D KmNz D KnN} D KpN| D KqNy D KsN{ D KtNz D KvN| 
+D KwNx D KyN| D KzNw D K|Nv D K}Nx D K?N{ D LAN| D LBN} D LDNx D LENz 
+D LGNv D LHNy D LJNx D LKNt D LMNt D LNNw D LPNv D LQNs D LSNw D LTNw 
+D LVNx D LWNv D LYNw D LZNt D L\Nu D L]Nv D L_Nw D L`Nx D LbNz D LcNv 
+D LeNx D LfNr D LhNr D LiNu D LkNz D LlNy D LnNx D LoNt D LqN| D LrNx 
+D LtNy D LuNs D LwNt D LxNt D LzNp D L{Np D L}Nu D L?Nr D M@No D MBNn 
+D MCNp D MENo D MFNp D MHNp D MINp D MKNq D MLNu D MNNv D MONu D MQNq 
+D MRNp D MTNq D MUNp D MWNt D MXNr D MZNs D M[No D M]Nl D M^Ns D M`Nq 
+D MaNq D McNr D MdNr D MfNn D MgNp D MiNs D MjNq D MlNr D MmNo D MoNs 
+D MpNu D MrNr D MsNu D MuNr D MvNm D MxNo D MyNq D M{Ns D M}Nn D M~No 
+D N@Nq D NANn D NCNm D NDNk D NFNm D NGNo D NINq D NJNq D NLNo D NMNr 
+D NONq D NPNn D NRNo D NSNo D NUNo D NVNo D NXNn D NYNo D N[Nl D N\No 
+D N^Np D N_No D NaNo D NbNo D NdNo D NeNp D NgNs D NhNn D NjNl D NkNp 
+D NmNs D NnNt D NpNr D NqNp D NsNq D NtNp D NvNq D NwNq D NyNm D N{Nl 
+D N|Nk D N~Nl D N?Nr D OANj D OBNn D ODNq D OENo D OGNm D OHNp D OJNt 
+D OKNw D OMNr D ONNs D OPNv D OQNr D OSNm D OTNn D OVNn D OWNj D OYNp 
+D OZNo D O\Nn D O]Ni D O_Nl D O`Ni D ObNk D OcNn D OeNm D OfNm D OhNm 
+D OiNq D OkNq D OlNn D OnNk D OoNo D OqNn D OrNp D OtNm D OuNp D OwNn 
+D OyNk D OzNm D O|Nk D O}Nk D O?Nn D P@Nj D PBNf D PCNf D PENh D PFNk 
+D PHNm D PINm D PKNm D PLNl D PNNm D PONh D PQNk D PRNh D PTNk D PUNl 
+D PWNg D PXNk D PZNk D P[Ne D P]Nl D P^Nf D P`Nj D PaNo D PcNj D PdNj 
+D PfNm D PgNm D PiNk D PjNn D PlNj D PmNk D PoNn D PpNj D PrNk D PsNj 
+D PuNl D PwNj D PxNk D PzNi D P{Nk D P}Nk D P~Nl D Q@Ni D QANn D QCNj 
+D QDNq D QFNl D QGNm D QINk D QJNp D QLNm D QMNl D QONh D QPNj D QRNj 
+D QSNi D QUNl D QVNl D QXNl D QYNk D Q[Nm D Q\Nk D Q^Nl D Q_Nm D QaNk 
+D QbNn D QdNp D QeNj D QgNm D QhNk D QjNm D QkNm D QmNg D QnNi D QpNo 
+D QqNj D QsNn D QuNh D QvNj D QxNi D QyNl D Q{Nn D Q|Nl D Q~Nk D Q?Ni 
+D RANi D RBNj D RDNk D RENm D RGNl D RHNj D RJNe D RKNf D RMNf D RNNj 
+D RPNn D RQNl D RSNk D RTNl D RVNj D RWNl D RYNl D RZNp D R\Nq D R]Nn 
+D R_Nl D R`Ni D RbNi D RcNi D ReNl D RfNg D RhNg D RiNk D RkNm D RlNh 
+D RnNk D RoNk D RqNl D RrNl D RtNf D RuNg D RwNe D RxNf D RzNj D R{Nh 
+D R}Ne D R~Nd D S@Nk D SBNj SR D SCNl D SENm D SFNl D SHNg D SINm 
+D SKNn D SLNj D SNNh D SONj D SQNi D SRNg D STNg D SUNn D SWNi D SXNh 
+D SZNh D S[Nm D S]Nq D S^Nm D S`Nm D SaNo D ScNl D SdNm D SfNm D SgNk 
+D SiNk D SjNn D SlNj D SmNm D SoNl D SpNi D SrNm D SsNm D SuNj D SvNn 
+D SxNj D SyNh D S{Nk D S|Nl D S~Ng D T@Ng D TANk D TCNg D TDNf D TFNi 
+D TGNi D TINh D TJNg D TLNh D TMNc D TONd D TPNi D TRNg D TSNf D TUNk 
+D TVNg D TXNh D TYNb D T[Nh D T\Ne D T^Nd D T_Nd D TaNf D TbNd D TdNf 
+D TeNg D TgNg D ThNg D TjNe D TkNe D TmNa D TnNe D TpNa D TqNf D TsNf 
+D TtNf D TvNb D TwNc D TyNd D T{Nc D T|Nf D T~Ng D T?Nh D UANk D UBNe 
+D UDNg D UENm D UGNg D UHNg D UJNh D UKNh D UMNj D UNNg D UPNg D UQNg 
+D USNe D UTNc D UVN` D UWNg D UYNe D UZNd D U\Na D U]Nd D U_Nb D U`Nc 
+D UbNf D UcNd D UeN` D UfNc D UhN` D UiNc D UkNd D UlNe D UnNc D UoNd 
+D UqNa D UrNf D UtNc D UuNb D UwN_ D UyN` D UzN_ D U|N_ D U}Nc D U?Na 
+D V@N` D VBNd D VCNd D VENh D VFNg D VHNf D VINc D VKNe D VLNb D VNNd 
+D VONc D VQNa D VRNi D VTNi D VUNd D VWNd D VXNd D VZNc D V[Nf D V]Nf 
+D V^Nc D V`Nd D VaNh D VcNg D VdNe D VfNb D VgNd D ViNf D VjNb D VlN` 
+D VmNc D VoN_ D VpNd D VrNb D VsNa D VuN^ D VwNf D VxN` D VzN_ D V{N` 
+D V}N] D V~N^ D W@Na D WANc D WCNc D WDN\ D WFN] D WGNZ D WIN^ D WJN` 
+D WLNb D WMNa D WONb D WPN_ D WRNa D WSN_ D WUN] D WVN_ D WXN_ D WYNc 
+D W[Ne D W\Na D W^Nd D W_N` D WaNa D WbNe D WdNd D WeN` D WgNa D WhN] 
+D WjNb D WkNb D WmNb D WnNb D WpNe D WqNg D WsNf D WuNd D WvN` D WxNc 
+D WyNb D W{Na D W|N^ D W~N` D W?Nf D XANc D XBNc D XDNc D XEN_ D XGN] 
+D XHNd D XJNd D XKNb D XMN` D XNNg D XPNb D XQNc D XSN^ D XTN^ D XVNa 
+D XWNa D XYNc D XZN_ D X\Nb D X]Nc D X_Na D X`Nc D XbN` D XcN] D XeNa 
+D XfNd D XhNa D XiN_ D XkN^ D XlNa D XnNb D XoNd D XqNf D XsNh D XtNh 
+D XvNh D XwNf D XyNe D XzNi D X|Nk D X}Nh D X?Nc D Y@Nb D YBNh D YCNd 
+D YENc D YFNh D YHNe D YINd D YKNb D YLNg D YNNc D YONc D YQNa D YRNb 
+D YTNe D YUNa D YWNb D YXN` D YZNd D Y[Nd D Y]N` D Y^Nc D Y`Na D YaNb 
+D YcN_ D YdN[ D YfN[ D YgN] D YiN] D YjNa D YlNc D YmNb D YoNd D YqNd 
+D YrNe D YtN` D YuN` D YwN` D YxNa D YzNb D Y{Nc D Y}N^ D Y~Nb D Z@Nb 
+D ZAN` D ZCNb D ZDN` D ZFN` D ZGN\ D ZINf D ZJNa D ZLN_ D ZMN\ D ZON\ 
+D ZPN` D ZRNa D ZSN^ D ZUN_ D ZVN^ D ZXN_ D ZYN` D Z[N^ D Z\N_ D Z^N^ 
+D Z_Na D ZaNa D ZbN` D ZdNc D ZeNg D ZgNa D ZhNe D ZjNa D ZkN^ D ZmNb 
+D ZoNd D ZpNb D ZrN_ D ZsN` D ZuNb D ZvN_ D ZxN_ D ZyN` D Z{N_ D Z|N^ 
+D Z~N] D Z?N^ D [AN\ D [BN\ D [DN[ D [EN[ D [GNa D [HNX D [JN] D [KNa 
+D [MNZ D [NN_ D [PN_ D [QNa D [SN\ D [TN^ D [VN^ D [WN] D [YN\ D [ZN_ 
+D [\Na D []N^ D [_N^ D [`N^ D [bNd D [cNa D [eN[ D [fN^ D [hN^ D [iN_ 
+D [kN` D [lN` D [nN_ D [oNa D [qN_ D [rNc D [tNb D [uNb D [wNe D [xN^ 
+D [zN_ D [|N_ D [}N^ D [?N_ D \@N` D \BN` D \CN^ D \EN_ D \FN_ D \HN[ 
+D \IN^ D \KN` D \LN\ D \NNe D \ON] D \QN^ D \RNZ D \TNV D \UN] D \WNX 
+D \XNY D \ZN\ D \[N^ D \]NW D \^NY D \`NW D \aN_ D \cN[ D \dN[ D \fN] 
+D \gNZ D \iN_ D \jN[ D \lN^ D \mN\ D \oN\ D \pN_ D \rN] D \sN[ D \uNU 
+D \vN[ D \xNY D \zNY D \{N[ D \}N] D \~N[ D ]@N^ D ]AN\ D ]CN] D ]DN^ 
+D ]FN[ D ]GNY D ]INZ D ]JN^ D ]LN] D ]MN_ D ]ON[ D ]PNd D ]RN` D ]SN_ 
+D ]UNX D ]VN] D ]XN\ D ]YN\ D ][Nd D ]\Nc D ]^N] D ]_N` D ]aN^ D ]bN[ 
+D ]dN\ D ]eN] D ]gNZ D ]hN\ D ]jNd D ]kNa D ]mNa D ]nNa D ]pNc D ]qN` 
+D ]sN` D ]uNb D ]vNb D ]xNa D ]yNf D ]{Nd D ]|Nc D ]~Nb D ]?Na D ^ANa 
+D ^BN] D ^DN] D ^EN` D ^GNb D ^HN` D ^JN` D ^KNa D ^MN_ D ^NN^ D ^PN_ 
+D ^QN^ D ^SN^ D ^TNc D ^VN^ D ^WN` D ^YN_ D ^ZNa D ^\Nb D ^]N_ D ^_N] 
+D ^`Na D ^bNa D ^cN_ D ^eNW D ^fN[ D ^hN\ D ^iN^ D ^kN` D ^lN` D ^nN_ 
+D ^oN] D ^qN[ D ^sNc D ^tNc D ^vN_ D ^wNb SR D ^yNc D ^zNa D ^|Nb 
+D ^}N^ D ^?N[ D _@N[ D _BN\ D _CN] D _ENa D _FN\ D _HN_ D _IN] D _KN\ 
+D _LNZ D _NN_ D _ON\ D _QN\ D _RN^ D _TN] D _UNY SR M _UNY D _WN\ 
+D _XN] D _ZN\ D _[N\ D _]N\ D _^N` D _`N` D _aNb D _cNb D _dNa D _fN_ 
+D _gNb D _iN` D _jN\ D _lN^ D _mN` D _oN^ D _qN^ D _rN] D _tN` D _uN] 
+D _wN] D _xN\ D _zN[ D _{N[ D _}N\ D _~N\ D `@N^ D `ANZ D `CN[ D `DNX 
+D `FN_ D `GN] D `INY D `JN^ D `LN^ D `MN[ D `ONX D `PN^ D `RN_ D `SN^ 
+D `UN^ D `VN\ D `XNW D `YNZ D `[N` D `\N] D `^NX D `_N_ D `aN] D `bNZ 
+D `dN` D `eN_ D `gN_ D `hN\ D `jNY D `kN^ D `mN] D `oNZ D `pN\ D `rN] 
+D `sN_ D `uN^ D `vN\ D `xNb D `yN^ D `{N_ D `|N] D `~N[ D `?NY D aAN[ 
+D aBN[ D aDN[ D aENb D aGN] D aHN^ D aJNY D aKN[ D aMN_ D aNN] D aPN[ 
+D aQN[ D aSNZ D aTN\ D aVN[ D aWN^ D aYN_ D aZN[ D a\N] D a]NZ D a_NY 
+D a`N\ D abN_ D acN_ D aeNY D afN\ D ahN[ D aiNW D akN` D amN] D anN[ 
+D apN\ D aqN` D asN\ D atNY D avNX D awN[ D ayN[ D azNZ D a|NY D a}NW 
+D a?N^ D b@NZ D bBNW D bCNY D bEN` D bFN[ D bHN\ D bIN^ D bKN\ D bLN^ 
+D bNNX D bON_ D bQNa D bRNX D bTNW D bUNZ D bWN[ D bXNX D bZN\ D b[N[ 
+D b]N\ D b^N[ D b`N] D baN^ D bcN^ D bdNZ D bfNZ D bgNX D biNS D bkN\ 
+D blN] D bnNX D boN[ D bqN] D brN_ D btN\ D buNY D bwNZ D bxNW D bzN] 
+D b{N] D b}N[ D b~NZ D c@NV D cAN\ D cCN^ D cDN^ D cFNW D cGNX D cINZ 
+D cJN\ D cLNY D cMN] D cON\ D cPNW D cRN\ D cSN] D cUN^ D cVN[ D cXN] 
+D cYN\ D c[N_ D c\Nb D c^N^ D c_N^ D caN` D cbNa D cdN\ D ceN^ D cgN[ 
+D ciNY D cjNa D clNb D cmN^ D coN[ D cpNZ D crNY D csN] D cuN^ D cvNV 
+D cxNW D cyNX D c{N\ D c|NT D c~NV D c?N[ D dANY D dBN^ D dDN] D dENY 
+D dGNZ D dHN^ D dJN_ D dKN_ D dMN\ D dNN_ D dPNY D dQN[ D dSN[ D dTNX 
+D dVNX D dWN] D dYN^ D dZN] D d\N\ D d]N[ D d_N` D d`Na D dbNa D dcN\ 
+D deN] D dfN] D dhN^ D diNa D dkNa D dlN\ D dnN^ D doN\ D dqN_ D drN^ 
+D dtNb D dvN^ D dwNZ D dyN` D dzN^ D d|N\ D d}NY D d?N[ D e@N[ D eBN] 
+D eCN[ D eEN_ D eFN_ D eHN\ D eINW D eKNX D eLN_ D eNN\ D eON^ D eQN_ 
+D eRN] D eTN` D eUNc D eWNa D eXN\ D eZN] D e[N^ D e]N` D e^N` D e`Nb 
+D eaNe D ecN[ D edN] D efNf D egNa D eiNb D ejNb D elN^ D emN` D eoNc 
+D epNd D erN` D etNb D euNb D ewN^ D exNb D ezNf D e{N^ D e}N_ D e~NZ 
+D f@Nc D fANc D fCN` D fDN` D fFNa D fGN\ D fIN_ D fJN[ D fLN^ D fMN^ 
+D fONY D fPN_ D fRN[ D fSN] D fUN\ D fVN_ D fXNb D fYNb D f[N^ D f\N` 
+D f^N` D f_N_ D faN` D fbNd D fdNa D feN_ D fgNb D fhNb D fjN\ D fkN` 
+D fmN` D foN` D fpN^ D frNa D fsNb D fuN` D fvNa D fxNb D fyN_ D f{Na 
+D f|N^ D f~N] D f?Na D gAN` D gBN\ D gDNb D gEN` D gGN` D gHNb D gJNb 
+D gKNb D gMN[ D gNN] D gPN^ D gQN^ D gSN` D gTNb D gVNc D gWN] D gYNa 
+D gZN` D g\Nb D g]N_ D g_N[ D g`N_ D gbNb D gcN` D geN\ D gfNX D ghN[ 
+D giN] D gkN^ D gmN_ D gnN[ D gpN^ D gqN` D gsN\ D gtN\ D gvN] D gwNZ 
+D gyN] D gzNX D g|NZ D g}N[ D g?N\ D h@NY D hBN_ D hCN] D hEN^ D hFN] 
+D hHN] D hINa D hKN_ D hLN_ D hNN] D hON_ D hQNa D hRN^ D hTN\ D hUN\ 
+D hWN` D hXN^ D hZNX D h[N[ D h]N[ D h^N\ D h`N[ D haNZ D hcN_ D hdN[ 
+D hfN[ D hgNa D hiNZ D hkN] D hlNV D hnN\ D hoN] D hqN^ D hrN] D htN^ 
+D huN^ D hwNW D hxN^ D hzN] D h{N^ D h}N\ D h~N] D i@NY D iANZ D iCNY 
+D iDNY D iFN] D iGN\ D iIN] D iJN[ D iLNb D iMN^ D iONX D iPNZ D iRNZ 
+D iSN[ D iUN] D iVN[ D iXN[ D iYN_ D i[N_ D i\N` D i^N\ D i_NY D iaN[ 
+D ibN[ D idN] D ieN\ D igN_ D iiN^ D ijN[ D ilN[ D imN\ D ioNY D ipN[ 
+D irNZ D isNZ D iuNY D ivNZ D ixNX D iyNZ D i{N_ D i|N^ D i~N` D i?Nc 
+D jAN` D jBNc D jDN` D jEN^ D jGNc D jHNa D jJNb D jKN_ D jMN\ D jNNZ 
+D jPNX D jQN_ D jSN` D jTN` D jVN] D jWN\ D jYN` D jZNX D j\NY D j]N\ 
+D j_N[ D j`N_ D jbN^ D jcNZ D jeNW D jgN^ D jhN[ D jjNZ D jkN\ D jmNV 
+D jnN\ D jpNY D jqNY D jsN] D jtN[ D jvNW D jwN^ D jyN[ D jzN[ D j|N^ 
+D j}N] D j?N] D k@NX D kBNZ D kCNZ D kENZ D kFN\ D kHNY D kINX D kKNV 
+SR D kLNW D kNNX D kONZ D kQNX D kRN^ D kTN] D kUNZ D kWNW D kXNY 
+D kZN\ D k[NZ D k]NV D k^NY D k`NU D kaNX D kcN[ D keNY D kfNZ D khNY 
+D kiNW D kkNX D klNX D knNY D koN[ D kqNY D krNZ D ktNX D kuN] D kwNW 
+D kxN\ D kzN[ D k{NY D k}N[ D k~N[ D l@N\ D lANY D lCNZ D lDN_ D lFN[ 
+D lGNY D lIN[ D lJNX D lLN[ D lMNW D lONZ D lPNY D lRNX D lSNR D lUNV 
+D lVNY D lXNX D lYNX D l[NW D l\NY D l^NY D l_NV D laNV D lcNZ D ldNZ 
+D lfN[ D lgNW D liNW D ljNZ D llNX D lmNX D loN] D lpNZ D lrNZ D lsNY 
+D luN[ D lvNU D lxN[ D lyNW D l{NV D l|NY D l~NV D l?NW D mAN\ D mBNV 
+D mDNW D mENY D mGNY D mHNT D mJN[ D mKN[ D mMN[ D mNN[ D mPNZ D mQNY 
+D mSNS D mTNT D mVNY D mWN[ D mYNY D mZNV D m\NY D m]N[ D m_N[ D maN_ 
+D mbNY D mdNZ D meNW D mgN[ D mhNZ D mjN_ D mkN_ D mmN\ D mnN\ D mpNY 
+D mqN[ D msN\ D mtN[ D mvNZ D mwN[ D myNY D mzN] D m|N] D m}N[ D m?NZ 
+D n@N_ D nBNY D nCN^ D nEN\ D nFN] D nHN\ D nIN_ D nKN] D nLN^ D nNNZ 
+D nON\ D nQNX D nRNY D nTNU D nUN[ D nWNU D nXN\ D nZNZ D n[NX D n]NU 
+D n^N[ D n`NT D naNV D ncNS D ndNT D nfNV D ngNU D niNY D njN[ D nlNZ 
+D nnNU D noNW D nqN[ D nrNS D ntNV D nuNV D nwNU D nxNY D nzNS D n{NX 
+D n}NV D n~NU D o@N[ D oANX D oCNZ D oDNZ D oFNW D oGNS D oINU D oJNW 
+D oLNU D oMNW D oON[ D oPNU D oRNW D oSN\ D oUN] D oVNY D oXN[ D oYNX 
+D o[N[ D o\NZ D o^NV D o_NV D oaNW D obNZ D odNY D oeN\ D ogN\ D oiN\ 
+D ojN\ D olN_ D omNY D ooN\ D opN\ D orNW D osNX D ouNX D ovNV D oxN[ 
+D oyN\ D o{NZ D o|N^ D o~N^ D o?N_ D pAN` D pBN] D pDN[ D pENa D pGNa 
+D pHNZ D pJNY D pKNX D pMNY D pNNX D pPNW D pQNV D pSN[ D pTN[ D pVNV 
+D pWNT D pYNW D pZNT D p\NU D p]NX D p_NY D p`N[ D pbNW D pcNZ D peN[ 
+D pgNX D phNX D pjN[ D pkN\ D pmNZ D pnNY D ppNY D pqN^ D psNY D ptNW 
+D pvN[ D pwNY D pyNV D pzN[ D p|NZ D p}N] D p?N] D q@N[ D qBNY D qCN\ 
+D qENZ D qFNT D qHNY D qIN^ D qKNY D qLN] D qNNZ D qON\ D qQNY D qRNZ 
+D qTNY D qUNZ D qWNV D qXN^ D qZNY D q[NW D q]NW D q^NX D q`NW D qaNZ 
+D qcN[ D qeN` D qfNZ D qhN^ D qiN[ D qkNW D qlNW D qnNX D qoNZ D qqNY 
+D qrNW D qtNW D quNX D qwNS D qxNU D qzNU D q{NX D q}NT D q~NV D r@NW 
+D rANY D rCNW D rDNT D rFN\ D rGNY D rINV D rJNY D rLNY D rMNT D rONZ 
+D rPNV D rRNX D rSNZ D rUNS D rVNT D rXNV D rYNW D r[NV D r\N[ D r^NW 
+D r_NY D raNY D rcN\ D rdNV D rfN[ D rgNZ D riNX D rjNY D rlNW D rmN\ 
+D roN[ D rpNX D rrNR D rsNY D ruNW D rvNY D rxNZ D ryNY D r{N[ D r|N\ 
+D r~N[ D r?NY D sAN] D sBNZ D sDNY D sENZ D sGN] D sHNZ D sJN^ D sKN[ 
+D sMNY D sNNW D sPNV D sQN] D sSNZ D sTNV D sVNW D sWNV D sYNV D sZNU 
+D s\NT D s]NY D s_NU D saNX D sbN_ D sdNZ D seN\ D sgN\ D shN[ D sjN_ 
+D skN^ D smN] D snN_ D spNX D sqN] D ssN\ D stNX D svN[ D swN\ D syNY 
+D szN\ D s|N\ D s}N] D s?NW D t@NY D tBN] D tCN\ D tENZ D tFN\ D tHNX 
+D tINZ D tKNZ D tLNZ D tNNZ D tON\ D tQN\ D tRNZ D tTNY D tUNZ D tWN\ 
+D tXNY D tZNY D t[N^ D t]N] D t_NX D t`N] D tbN[ D tcNX D teN[ D tfN[ 
+D thN] D tiNY D tkNY D tlNV D tnNS D toNS D tqNW D trNV D ttNU D tuNX 
+D twN[ D txNY D tzNY D t{NQ D t}N\ D t~NS D u@NY D uANV D uCNY D uDN[ 
+D uFNV D uGN[ D uINX D uJNY D uLN\ D uMNV D uONY D uPNZ D uRN[ D uSNX 
+D uUNZ D uVNY D uXN\ D uYNT D u[NU D u]NZ D u^NU D u`NV D uaNY D ucNY 
+D udNZ D ufNY D ugNY D uiNX D ujNY D ulN[ D umNY D uoN^ D upNW D urN[ 
+D usN[ D uuNX D uvNX D uxNS D uyNT D u{NV D u|NS D u~NQ D u?NT D vANQ 
+D vBNV D vDNR D vENP D vGNT D vHNP D vJNP D vKNT D vMNO D vNNT D vPNS 
+D vQNS D vSNW D vTNQ D vVNW D vWNS D vYNW D v[NT D v\NX D v^NW D v_NR 
+D vaNS D vbNV D vdNU D veNW D vgNP D vhNU D vjNS D vkNU D vmNS D vnNS 
+D vpNT D vqNV D vsNV D vtNX D vvNR D vwNR D vyNW D vzNU D v|NY D v}NS 
+D v?NU D w@NS SR D wBNO D wCNT D wENW D wFNN D wHNQ D wINQ D wKNR 
+D wLNU D wNNS D wONR D wQNS D wRNU D wTNW D wUNS D wWNW D wXNV D wZNT 
+D w[NU D w]NX D w^NW SR M w^NW D w`NY D waNY D wcNW D wdN] D wfLd 
+D whIY D wiLC D wkMB D wlMl D wnN@ D woNP D wqNS D wrNW D wtNT D wuNY 
+D wwNV D wxNV D wzNZ D w{NY D w}NS D w~NU D x@NP D xAN[ D xCNW D xDNW 
+D xFNV D xGNY D xINW D xJN[ D xLNW D xMNY D xONZ D xPNX D xRNY D xSNY 
+D xUN\ D xVNZ D xXNX D xYN[ D x[NZ D x\N^ D x^NY D x_NW D xaN[ D xcNZ 
+D xdNX D xfN^ D xgNX D xiNX D xjNX D xlNY D xmNW D xoNY D xpNY D xrNX 
+SR 
+%PSKCloseWorkStation 
+%PSKOpenWorkStation 
+CL 
+%%Trailer 
+R R 
+%DocumentFonts: Times-Bold Times-Italic Symbol Times-Roman
+%%Pages: 1 
+%%EOF 

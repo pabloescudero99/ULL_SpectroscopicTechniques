@@ -1,0 +1,43 @@
+SN 2005kl
+- [Modjaz2014]
+Type:Ic; 
+Discov Ref:CBET300; 
+Discov Type:SN host galaxy was targeted; 
+Host galaxy:NGC4369; 
+SN offsets(Offsets from the center of host galaxy as listed in discovery 
+IAUCs or as derived by comparing SN and host-galaxy coordinates)['']:6W 4N; 
+cz_helio:1045 [km/s]; 
+JD of SN V-Max:2453703.7 (CfA)
+# CfA = CfA photometry presented in F. Bianco et al. 2014, where 
+#the date of V-band maximum is derived by fitting Monte Carlo realizations the
+#V-band photometric data points near peak with a second-degree polynomial. For
+#cases where literature data were available for the same SN, those data were 
+#also included in the fit.
+"for SN 2005kl,
+we have spectra at t Vmax = −4, + 70, and + 155 days. While
+these spectra do not exhibit He i lines and are well matched
+by SN Ic spectra via SNID, we cannot exclude the possibility
+that they may have developed He i lines around maximum light
+and later, since we do not possess spectra at those phases."
+
+- [Meza2020]
+Host redshift:0.003485
+Host luminosity distance:21.57 [Mpc]
+MW E(B-V):0.02
+Host E(B-V):No published value found
+t0:53686.14 ¿?
+References:Cfa
+# Peak parameters of our BVRIY JH light curves and the 56 Ni masses obtained 
+#as described in Sect. 3.
+Type:Ic
+t_p:18.49 [days]
+L_p:6.57e41 [erg/s]
+Arnett:0.03 [M_sun]
+K&K:0.02 [M_sun]
+Tail:0.02 [M_sun]
+##########################################################################
+CLASIFICACIÓN SN [Matheson2001]
+
+###########################################################################
+Foto NGC4639: https://www.flickr.com/photos/54209675@N00/12137819615
+

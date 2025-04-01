@@ -1,0 +1,30 @@
+# Thu 15:42:22 21-Mar-2024
+begin	aperture HD26220 1 512. 350.8232
+	image	HD26220
+	aperture	1
+	beam	1
+	center	512. 350.8232
+	low	-511. -3.978668
+	high	512. 3.57663
+	background
+		xmin -38.85591
+		xmax 35.01498
+		function legendre
+		order 2
+		sample -38.85591:-15.98899 35.01498:13.84521
+		naverage -3
+		niterate 3
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		2.
+		4.
+		10.
+		1010.
+		-0.2372003
+		0.11716
+		-0.4741426
+		0.03511797
+

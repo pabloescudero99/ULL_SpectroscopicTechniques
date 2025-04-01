@@ -1,0 +1,30 @@
+# Thu 17:16:57 21-Mar-2024
+begin	aperture sn05kd 1 450. 349.1919
+	image	sn05kd
+	aperture	1
+	beam	1
+	center	450. 349.1919
+	low	-449. -12.
+	high	574. 12.
+	background
+		xmin -38.31997
+		xmax 37.87334
+		function legendre
+		order 2
+		sample  -38.31997:-11.25482 14.47047:37.87334
+		naverage -3
+		niterate 3
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	8
+		2.
+		4.
+		10.
+		1010.
+		-0.2681384
+		0.2601222
+		-0.6382275
+		0.05506555
+

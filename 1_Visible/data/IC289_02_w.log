@@ -1,0 +1,2000 @@
+# Feb 20 16:33 IC289_02_w[1:2,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.903  214.8206   11824.7    -55.04   2460.73     4.514        0.
+# Feb 20 16:33 IC289_02_w[1:3,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.887  336.3745    17627.     -52.4   3553.69      4.66        0.
+# Feb 20 16:33 IC289_02_w[2:4,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.889  357.0067   18482.4    -51.77    3695.4     4.699        0.
+# Feb 20 16:33 IC289_02_w[3:5,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.917  340.2863   18089.4    -53.16   3520.31     4.827        0.
+# Feb 20 16:33 IC289_02_w[4:6,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.873  319.1884   18198.8    -57.02   3606.43     4.741        0.
+# Feb 20 16:33 IC289_02_w[5:7,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.802  318.2392   17776.5    -55.86    3583.9      4.66        0.
+# Feb 20 16:33 IC289_02_w[6:8,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.772  307.0389   18254.3    -59.45   3582.36     4.787        0.
+# Feb 20 16:33 IC289_02_w[7:9,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.834  304.2172   18913.2    -62.17   3620.47     4.908        0.
+# Feb 20 16:33 IC289_02_w[8:10,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.901  287.7376   19030.4    -66.14   3513.11     5.089        0.
+# Feb 20 16:33 IC289_02_w[9:11,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.929  314.3568   18622.1    -59.24   3495.84     5.004        0.
+# Feb 20 16:33 IC289_02_w[10:12,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.951  340.9214   18386.5    -53.93   3530.95     4.892        0.
+# Feb 20 16:33 IC289_02_w[11:13,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.967   352.804   18601.7    -52.73   3585.41     4.874        0.
+# Feb 20 16:33 IC289_02_w[12:14,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.934  393.3292   17835.7    -45.35   3523.21     4.756        0.
+# Feb 20 16:33 IC289_02_w[13:15,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.939  390.9894   17793.3    -45.51   3525.82     4.741        0.
+# Feb 20 16:33 IC289_02_w[14:16,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.942  366.2333   18119.6    -49.48   3652.88      4.66        0.
+# Feb 20 16:33 IC289_02_w[15:17,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.902  330.4643   18793.1    -56.87   3703.56     4.767        0.
+# Feb 20 16:33 IC289_02_w[16:18,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.926   312.432   18739.4    -59.98   3663.12     4.806        0.
+# Feb 20 16:33 IC289_02_w[17:19,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.037  319.7615   18711.5    -58.52   3600.36     4.882        0.
+# Feb 20 16:33 IC289_02_w[18:20,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.126  344.7138   18517.7    -53.72   3588.75     4.847        0.
+# Feb 20 16:33 IC289_02_w[19:21,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.176  360.6138   18339.2    -50.86   3590.61     4.798        0.
+# Feb 20 16:33 IC289_02_w[20:22,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.095  389.0558   17762.7    -45.66    3533.5     4.723        0.
+# Feb 20 16:33 IC289_02_w[21:23,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.109  398.9636   18111.8     -45.4   3614.65     4.707        0.
+# Feb 20 16:33 IC289_02_w[22:24,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.077  379.0582   18641.5    -49.18   3636.31     4.816        0.
+# Feb 20 16:33 IC289_02_w[23:25,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.033  349.5336   19070.6    -54.56   3660.07     4.895        0.
+# Feb 20 16:33 IC289_02_w[24:26,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.939  338.2264   19153.5    -56.63   3626.86     4.961        0.
+# Feb 20 16:33 IC289_02_w[25:27,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.903  341.2251   19420.4    -56.91   3577.13       5.1        0.
+# Feb 20 16:33 IC289_02_w[26:28,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.004  340.0887   18870.1    -55.49   3535.24     5.014        0.
+# Feb 20 16:33 IC289_02_w[27:29,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.054  321.9942   18948.3    -58.85   3506.53     5.076        0.
+# Feb 20 16:33 IC289_02_w[28:30,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.062  331.7667   18225.2    -54.93   3454.92     4.956        0.
+# Feb 20 16:33 IC289_02_w[29:31,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.05  334.4725   19384.9    -57.96   3627.44      5.02        0.
+# Feb 20 16:33 IC289_02_w[30:32,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.012   342.277   19199.3    -56.09   3672.17     4.912        0.
+# Feb 20 16:33 IC289_02_w[31:33,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.061  342.5958   18978.4     -55.4   3683.34      4.84        0.
+# Feb 20 16:33 IC289_02_w[32:34,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.059  346.3992   18109.8    -52.28   3468.11     4.906        0.
+# Feb 20 16:33 IC289_02_w[33:35,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.025  341.7916   18321.8    -53.61   3446.04     4.995        0.
+# Feb 20 16:33 IC289_02_w[34:36,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.956  343.4963   18898.5    -55.02   3546.61     5.006        0.
+# Feb 20 16:33 IC289_02_w[35:37,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.914   327.981   19120.9     -58.3   3608.88     4.977        0.
+# Feb 20 16:33 IC289_02_w[36:38,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.947  316.5981    18568.    -58.65   3506.42     4.975        0.
+# Feb 20 16:33 IC289_02_w[37:39,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.005  334.1638   17501.3    -52.37   3392.53     4.846        0.
+# Feb 20 16:33 IC289_02_w[38:40,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.999  331.0532   17433.5    -52.66   3361.01     4.873        0.
+# Feb 20 16:33 IC289_02_w[39:41,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.929  381.5795   18227.4    -47.77   3475.68     4.927        0.
+# Feb 20 16:33 IC289_02_w[40:42,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.925  371.0323   19115.9    -51.52   3546.79     5.063        0.
+# Feb 20 16:33 IC289_02_w[41:43,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.981  397.1718   19113.3    -48.12   3626.64     4.951        0.
+# Feb 20 16:33 IC289_02_w[42:44,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.13  342.3892   19176.8    -56.01   3645.41     4.942        0.
+# Feb 20 16:33 IC289_02_w[43:45,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.061  355.7223    19230.    -54.06   3701.18     4.881        0.
+# Feb 20 16:33 IC289_02_w[44:46,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5576.98  368.9194   19413.6    -52.62   3721.09     4.901        0.
+# Feb 20 16:33 IC289_02_w[45:47,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.983  384.8777   18392.5    -47.79   3603.43     4.795        0.
+# Feb 20 16:33 IC289_02_w[46:48,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.129  368.9771   17240.7    -46.73   3460.56      4.68        0.
+# Feb 20 16:33 IC289_02_w[47:49,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.175  341.2997   17659.8    -51.74   3540.99     4.685        0.
+# Feb 20 16:33 IC289_02_w[48:50,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.136  341.2964   18232.1    -53.42   3653.06     4.689        0.
+# Feb 20 16:33 IC289_02_w[49:51,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.056  334.8943   18929.7    -56.52   3694.83     4.813        0.
+# Feb 20 16:33 IC289_02_w[50:52,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.061  348.1086   18123.4    -52.06   3597.52     4.733        0.
+# Feb 20 16:33 IC289_02_w[51:53,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.983  338.2845   18567.8    -54.89   3562.46     4.896        0.
+# Feb 20 16:33 IC289_02_w[52:54,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.06  366.3137   18968.3    -51.78   3754.25     4.747        0.
+# Feb 20 16:33 IC289_02_w[53:55,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.01   349.263   19187.6    -54.94   3716.44      4.85        0.
+# Feb 20 16:33 IC289_02_w[54:56,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.108  356.2758   19224.7    -53.96   3705.63     4.874        0.
+# Feb 20 16:33 IC289_02_w[55:57,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.009  330.8883   18753.4    -56.68   3455.07     5.099        0.
+# Feb 20 16:33 IC289_02_w[56:58,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.123  320.7935   19065.2    -59.43    3536.6     5.064        0.
+# Feb 20 16:33 IC289_02_w[57:59,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.111  335.2896   18917.5    -56.42   3674.02     4.837        0.
+# Feb 20 16:33 IC289_02_w[58:60,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.124  332.5412   19626.6    -59.02   3853.27     4.785        0.
+# Feb 20 16:33 IC289_02_w[59:61,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.107  363.2431   19309.7    -53.16   3818.96      4.75        0.
+# Feb 20 16:33 IC289_02_w[60:62,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.109  342.8973   19061.4    -55.59   3718.45     4.816        0.
+# Feb 20 16:33 IC289_02_w[61:63,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.197  341.6368   17915.6    -52.44   3574.51     4.708        0.
+# Feb 20 16:33 IC289_02_w[62:64,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.192  327.1924   18123.4    -55.39   3613.29     4.712        0.
+# Feb 20 16:33 IC289_02_w[63:65,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.153  333.7946   18096.1    -54.21   3594.08      4.73        0.
+# Feb 20 16:33 IC289_02_w[64:66,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.147  333.1903   18828.3    -56.51   3681.59     4.804        0.
+# Feb 20 16:33 IC289_02_w[65:67,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.07  342.3276   18517.8    -54.09   3587.82     4.849        0.
+# Feb 20 16:33 IC289_02_w[66:68,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.064  341.2289   18651.9    -54.66   3617.38     4.844        0.
+# Feb 20 16:33 IC289_02_w[67:69,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.022  358.5585   18490.4    -51.57   3628.41     4.787        0.
+# Feb 20 16:33 IC289_02_w[68:70,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.073  354.4402   17914.5    -50.54   3642.45      4.62        0.
+# Feb 20 16:33 IC289_02_w[69:71,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.014  333.6613   18324.3    -54.92   3634.03     4.737        0.
+# Feb 20 16:33 IC289_02_w[70:72,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.042  312.5347   18533.2     -59.3   3671.06     4.743        0.
+# Feb 20 16:33 IC289_02_w[71:73,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.045  330.4945   18958.4    -57.36    3683.9     4.835        0.
+# Feb 20 16:33 IC289_02_w[72:74,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.102  338.6318   18895.1     -55.8   3739.02     4.747        0.
+# Feb 20 16:33 IC289_02_w[73:75,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.059  385.9321   18485.5     -47.9   3623.62     4.792        0.
+# Feb 20 16:33 IC289_02_w[74:76,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.105  377.3302   18646.6    -49.42   3712.33     4.719        0.
+# Feb 20 16:33 IC289_02_w[75:77,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.058  409.9327   18329.7    -44.71   3675.97     4.684        0.
+# Feb 20 16:33 IC289_02_w[76:78,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.084  382.8195   17949.4    -46.89   3687.86     4.572        0.
+# Feb 20 16:33 IC289_02_w[77:79,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5576.98  386.3577    18591.    -48.12   3666.82     4.763        0.
+# Feb 20 16:33 IC289_02_w[78:80,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.042  350.6075   19061.5    -54.37   3686.64     4.857        0.
+# Feb 20 16:33 IC289_02_w[79:81,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.929  341.3398   20321.8    -59.54   3889.76     4.908        0.
+# Feb 20 16:33 IC289_02_w[80:82,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.979  324.1396   19972.8    -61.62   3937.89     4.765        0.
+# Feb 20 16:33 IC289_02_w[81:83,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.975  347.8485   19668.7    -56.54    3960.2     4.666        0.
+# Feb 20 16:33 IC289_02_w[82:84,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.988  360.4355   19238.5    -53.38   3979.56     4.542        0.
+# Feb 20 16:33 IC289_02_w[83:85,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.038  359.5771   19129.9     -53.2   3904.23     4.603        0.
+# Feb 20 16:33 IC289_02_w[84:86,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.005  317.1332   19555.6    -61.66   3927.99     4.677        0.
+# Feb 20 16:33 IC289_02_w[85:87,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.029  323.3399   19296.3    -59.68   3701.07     4.898        0.
+# Feb 20 16:33 IC289_02_w[86:88,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.005  379.2863   18774.2     -49.5   3727.12     4.732        0.
+# Feb 20 16:33 IC289_02_w[87:89,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.006  413.8072   19039.3    -46.01   3767.96     4.747        0.
+# Feb 20 16:33 IC289_02_w[88:90,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.949   440.074   18906.7    -42.96   3826.12     4.642        0.
+# Feb 20 16:33 IC289_02_w[89:91,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.954  427.4274   18759.3    -43.89    3796.2     4.642        0.
+# Feb 20 16:33 IC289_02_w[90:92,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.998  418.4803   18119.5     -43.3   3750.63     4.538        0.
+# Feb 20 16:33 IC289_02_w[91:93,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.006  378.2617   18466.2    -48.82   3809.66     4.554        0.
+# Feb 20 16:33 IC289_02_w[92:94,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.131  367.3606   19320.4    -52.59    4092.4     4.435        0.
+# Feb 20 16:33 IC289_02_w[93:95,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.019  389.4312   19454.5    -49.96    3995.7     4.574        0.
+# Feb 20 16:33 IC289_02_w[94:96,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.062  389.9508   18691.2    -47.93   3893.01      4.51        0.
+# Feb 20 16:33 IC289_02_w[95:97,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.847  422.2521   18087.2    -42.84   3645.42     4.661        0.
+# Feb 20 16:33 IC289_02_w[96:98,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5576.89  425.3661   17618.1    -41.42    3719.3      4.45        0.
+# Feb 20 16:33 IC289_02_w[97:99,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.886  433.5164   18235.4    -42.06   3836.45     4.465        0.
+# Feb 20 16:33 IC289_02_w[98:100,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.989  400.7868   17780.4    -44.36   3907.89     4.274        0.
+# Feb 20 16:33 IC289_02_w[99:101,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.979  386.9511   17981.1    -46.47   3875.42     4.359        0.
+# Feb 20 16:33 IC289_02_w[100:102,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.905  391.1219   18145.2    -46.39   3806.27     4.478        0.
+# Feb 20 16:33 IC289_02_w[101:103,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.887  384.4732   18983.9    -49.38   3827.59     4.659        0.
+# Feb 20 16:33 IC289_02_w[102:104,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.901  383.3743   19349.6    -50.47   3983.79     4.563        0.
+# Feb 20 16:33 IC289_02_w[103:105,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.869  361.1427   18986.9    -52.57   3974.39     4.488        0.
+# Feb 20 16:33 IC289_02_w[104:106,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.838  366.2654   18756.2    -51.21   3898.11      4.52        0.
+# Feb 20 16:33 IC289_02_w[105:107,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5576.86  369.9993   18973.2    -51.28    3810.7     4.677        0.
+# Feb 20 16:33 IC289_02_w[106:108,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.811  396.5154   18935.8    -47.76   3885.83     4.578        0.
+# Feb 20 16:33 IC289_02_w[107:109,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+    5576.8  379.5555   19313.6    -50.88   4056.91     4.472        0.
+# Feb 20 16:33 IC289_02_w[108:110,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.801  379.0739   18935.3    -49.95   4026.34     4.418        0.
+# Feb 20 16:33 IC289_02_w[109:111,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.864  369.7108   19398.9    -52.47   4144.33     4.397        0.
+# Feb 20 16:33 IC289_02_w[110:112,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.857  359.7213   19051.4    -52.96   4034.56     4.436        0.
+# Feb 20 16:33 IC289_02_w[111:113,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.816  337.1039   18833.2    -55.87   3852.89     4.592        0.
+# Feb 20 16:33 IC289_02_w[112:114,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.862  340.8073   18440.1    -54.11    3616.8      4.79        0.
+# Feb 20 16:33 IC289_02_w[113:115,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5576.89  351.8029   18528.2    -52.67    3653.5     4.764        0.
+# Feb 20 16:33 IC289_02_w[114:116,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.842  355.9906   18300.8    -51.41   3787.05      4.54        0.
+# Feb 20 16:33 IC289_02_w[115:117,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.789  357.7007   18470.7    -51.64   3929.09     4.416        0.
+# Feb 20 16:33 IC289_02_w[116:118,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.736  350.9408    18845.     -53.7   4012.05     4.413        0.
+# Feb 20 16:33 IC289_02_w[117:119,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.759  321.0117   20090.2    -62.58   4058.86      4.65        0.
+# Feb 20 16:33 IC289_02_w[118:120,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.814  358.6564   19512.8    -54.41   3957.82     4.632        0.
+# Feb 20 16:33 IC289_02_w[119:121,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.794  371.3329   18959.3    -51.06   3924.39     4.539        0.
+# Feb 20 16:33 IC289_02_w[120:122,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.876  403.8701   18008.4    -44.59   3779.31     4.476        0.
+# Feb 20 16:33 IC289_02_w[121:123,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.787   377.877    18013.    -47.67   3735.98     4.529        0.
+# Feb 20 16:33 IC289_02_w[122:124,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.781  364.5665   18596.2    -51.01   3713.38     4.705        0.
+# Feb 20 16:33 IC289_02_w[123:125,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.744  378.2253   19262.1    -50.93   3874.88      4.67        0.
+# Feb 20 16:33 IC289_02_w[124:126,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5576.95  382.9706   19847.1    -51.82   3988.13     4.675        0.
+# Feb 20 16:33 IC289_02_w[125:127,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.938  374.8649   19188.5    -51.19   3854.26     4.677        0.
+# Feb 20 16:33 IC289_02_w[126:128,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.976  359.5536    19074.    -53.05   3907.35     4.586        0.
+# Feb 20 16:33 IC289_02_w[127:129,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5576.81  375.5148    19061.    -50.76   3867.82      4.63        0.
+# Feb 20 16:33 IC289_02_w[128:130,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.805    393.67   18986.2    -48.23   3964.77     4.499        0.
+# Feb 20 16:33 IC289_02_w[129:131,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.714  387.0969   18104.8    -46.77   3676.22     4.627        0.
+# Feb 20 16:33 IC289_02_w[130:132,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.713  389.4814   17898.8    -45.96   3791.59     4.435        0.
+# Feb 20 16:33 IC289_02_w[131:133,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.715  384.0713   18031.5    -46.95    3793.5     4.465        0.
+# Feb 20 16:33 IC289_02_w[132:134,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5576.76  384.6682   18928.5    -49.21   3865.71       4.6        0.
+# Feb 20 16:33 IC289_02_w[133:135,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.778  350.8469   19520.4    -55.64    3881.4     4.725        0.
+# Feb 20 16:33 IC289_02_w[134:136,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.749  366.8397   19146.6    -52.19   3828.36     4.698        0.
+# Feb 20 16:33 IC289_02_w[135:137,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.671   358.979   19559.7    -54.49   3961.83     4.638        0.
+# Feb 20 16:33 IC289_02_w[136:138,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.666  374.8236   18995.1    -50.68   3801.93     4.694        0.
+# Feb 20 16:33 IC289_02_w[137:139,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.707  371.6209   19512.9    -52.51   3924.96      4.67        0.
+# Feb 20 16:33 IC289_02_w[138:140,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.776   384.067   19027.2    -49.54   3868.38     4.621        0.
+# Feb 20 16:33 IC289_02_w[139:141,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.791  402.9149   19063.6    -47.31   3898.45     4.594        0.
+# Feb 20 16:33 IC289_02_w[140:142,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.841  404.2076   19904.7    -49.24   3977.49     4.701        0.
+# Feb 20 16:33 IC289_02_w[141:143,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.947  402.4806   19752.1    -49.08   3856.32     4.812        0.
+# Feb 20 16:33 IC289_02_w[142:144,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.928  385.1476   19955.9    -51.81   3907.31     4.798        0.
+# Feb 20 16:33 IC289_02_w[143:145,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.003  398.8475   19465.2     -48.8   3844.11     4.757        0.
+# Feb 20 16:33 IC289_02_w[144:146,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.877  399.9581   19781.6    -49.46   3975.65     4.674        0.
+# Feb 20 16:33 IC289_02_w[145:147,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.871  417.2708   19433.5    -46.57   3818.66     4.781        0.
+# Feb 20 16:33 IC289_02_w[146:148,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.783  410.5192   18632.4    -45.39   3711.17     4.717        0.
+# Feb 20 16:33 IC289_02_w[147:149,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.833  417.2454   18096.2    -43.37   3536.08     4.808        0.
+# Feb 20 16:33 IC289_02_w[148:150,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.924  397.2335   18367.9    -46.24   3726.77      4.63        0.
+# Feb 20 16:33 IC289_02_w[149:151,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.938  393.0635   18706.1    -47.59   3713.02     4.733        0.
+# Feb 20 16:33 IC289_02_w[150:152,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.894  369.6075   18902.9    -51.14   3840.05     4.624        0.
+# Feb 20 16:33 IC289_02_w[151:153,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.843  381.7798   19303.7    -50.56   3848.88     4.712        0.
+# Feb 20 16:33 IC289_02_w[152:154,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.867  359.2648   19877.8    -55.33   3895.97     4.793        0.
+# Feb 20 16:33 IC289_02_w[153:155,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.805   383.672   20363.4    -53.08   3901.35     4.903        0.
+# Feb 20 16:33 IC289_02_w[154:156,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.814  396.6751    19984.    -50.38   3782.16     4.964        0.
+# Feb 20 16:33 IC289_02_w[155:157,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5576.75  404.2894   20518.6    -50.75   3974.81      4.85        0.
+# Feb 20 16:33 IC289_02_w[156:158,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.806  391.8299   20431.8    -52.14   3969.27     4.836        0.
+# Feb 20 16:33 IC289_02_w[157:159,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.782  378.7177   20865.7     -55.1   4116.42     4.762        0.
+# Feb 20 16:33 IC289_02_w[158:160,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.813  417.9832    19587.    -46.86     3798.     4.845        0.
+# Feb 20 16:33 IC289_02_w[159:161,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5576.83  435.6469   19719.8    -45.27   3767.66     4.917        0.
+# Feb 20 16:33 IC289_02_w[160:162,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.851  427.4708   19575.6    -45.79   3706.07     4.962        0.
+# Feb 20 16:33 IC289_02_w[161:163,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.855  418.5832   19828.9    -47.37   3842.43     4.848        0.
+# Feb 20 16:33 IC289_02_w[162:164,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.884  431.3521   19746.1    -45.78   3902.31     4.754        0.
+# Feb 20 16:33 IC289_02_w[163:165,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.908  404.9294   20439.5    -50.48   3961.01     4.848        0.
+# Feb 20 16:33 IC289_02_w[164:166,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.954  367.1961   20887.2    -56.88   3927.91     4.996        0.
+# Feb 20 16:33 IC289_02_w[165:167,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.979  348.3169   21012.5    -60.33   3970.61     4.972        0.
+# Feb 20 16:33 IC289_02_w[166:168,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.936   360.207   20383.2    -56.59   3844.66     4.981        0.
+# Feb 20 16:33 IC289_02_w[167:169,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.889  387.2847   19442.9     -50.2   3755.96     4.863        0.
+# Feb 20 16:33 IC289_02_w[168:170,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.884  382.5581   19710.8    -51.52   3755.06     4.931        0.
+# Feb 20 16:33 IC289_02_w[169:171,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.908  395.8208   19314.4     -48.8   3684.09     4.925        0.
+# Feb 20 16:33 IC289_02_w[170:172,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.939  404.4482   19468.5    -48.14   3695.19      4.95        0.
+# Feb 20 16:33 IC289_02_w[171:173,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.928  409.7913   19066.1    -46.53   3653.13     4.903        0.
+# Feb 20 16:33 IC289_02_w[172:174,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.986  403.5415   19947.6    -49.43   3842.75     4.877        0.
+# Feb 20 16:33 IC289_02_w[173:175,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.912  393.9613   20515.2    -52.07   3947.28     4.883        0.
+# Feb 20 16:33 IC289_02_w[174:176,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5576.94  386.8483    20600.    -53.25   3967.14     4.878        0.
+# Feb 20 16:33 IC289_02_w[175:177,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.946  398.1704   19691.5    -49.45   3775.73     4.899        0.
+# Feb 20 16:33 IC289_02_w[176:178,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.003  395.1275   19976.2    -50.56   3726.27     5.036        0.
+# Feb 20 16:33 IC289_02_w[177:179,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.974  420.2593   19962.2     -47.5   3713.07     5.051        0.
+# Feb 20 16:33 IC289_02_w[178:180,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.958  402.9266   20983.2    -52.08   3857.89      5.11        0.
+# Feb 20 16:33 IC289_02_w[179:181,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.902  420.3911   21591.4    -51.36   4014.32     5.053        0.
+# Feb 20 16:33 IC289_02_w[180:182,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.837  370.2953   21679.5    -58.55   3834.65     5.311        0.
+# Feb 20 16:33 IC289_02_w[181:183,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.864  391.3732   20830.8    -53.22   3797.73     5.153        0.
+# Feb 20 16:33 IC289_02_w[182:184,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.014   397.938   19370.4    -48.68   3659.15     4.973        0.
+# Feb 20 16:33 IC289_02_w[183:185,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.104  409.3888   19021.6    -46.46   3825.58     4.671        0.
+# Feb 20 16:33 IC289_02_w[184:186,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.036  432.6096   18332.5    -42.38   3798.37     4.534        0.
+# Feb 20 16:33 IC289_02_w[185:187,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.917  454.6805   19105.7    -42.02   3830.07     4.686        0.
+# Feb 20 16:33 IC289_02_w[186:188,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5576.81  475.1908   20372.8    -42.87   3976.67     4.813        0.
+# Feb 20 16:33 IC289_02_w[187:189,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.819  482.1006   21161.2    -43.89   4022.29     4.942        0.
+# Feb 20 16:33 IC289_02_w[188:190,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.884  461.6159   21258.8    -46.05   4123.05     4.844        0.
+# Feb 20 16:33 IC289_02_w[189:191,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.05   435.494    19810.    -45.49    3949.3     4.712        0.
+# Feb 20 16:33 IC289_02_w[190:192,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.121  418.4506   19741.3    -47.18   3966.95     4.675        0.
+# Feb 20 16:33 IC289_02_w[191:193,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.031  416.1917   19343.1    -46.48   3961.88     4.587        0.
+# Feb 20 16:33 IC289_02_w[192:194,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.934  432.7303   19704.1    -45.53   3974.26     4.658        0.
+# Feb 20 16:33 IC289_02_w[193:195,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.851  393.1976   20161.8    -51.28   4033.49     4.696        0.
+# Feb 20 16:33 IC289_02_w[194:196,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.806  414.0383   19969.7    -48.23   3846.66     4.877        0.
+# Feb 20 16:33 IC289_02_w[195:197,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.836  412.0877   20322.4    -49.32    3844.1     4.966        0.
+# Feb 20 16:33 IC289_02_w[196:198,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.763  422.8723   20551.7     -48.6   3828.65     5.043        0.
+# Feb 20 16:33 IC289_02_w[197:199,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.855  407.2627   20710.8    -50.85    3986.9      4.88        0.
+# Feb 20 16:33 IC289_02_w[198:200,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.825  400.6619   20607.8    -51.43   3958.45     4.891        0.
+# Feb 20 16:33 IC289_02_w[199:201,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5576.97  376.6879   20432.1    -54.24    4042.7     4.748        0.
+# Feb 20 16:33 IC289_02_w[200:202,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.026  399.1827    20538.    -51.45   3996.77     4.827        0.
+# Feb 20 16:33 IC289_02_w[201:203,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.974  417.7887   20385.3    -48.79     3921.     4.884        0.
+# Feb 20 16:33 IC289_02_w[202:204,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.875  419.9773   20284.6     -48.3   3836.97     4.966        0.
+# Feb 20 16:33 IC289_02_w[203:205,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.968  412.0901   19144.4    -46.46   3682.61     4.884        0.
+# Feb 20 16:33 IC289_02_w[204:206,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.07  397.3205   19350.5     -48.7   3762.71     4.831        0.
+# Feb 20 16:33 IC289_02_w[205:207,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.067  418.2213   19760.5    -47.25   3737.37     4.967        0.
+# Feb 20 16:33 IC289_02_w[206:208,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.993  417.0199   20588.8    -49.37   3893.66     4.968        0.
+# Feb 20 16:33 IC289_02_w[207:209,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.906  412.3494   21331.9    -51.73   3944.92      5.08        0.
+# Feb 20 16:33 IC289_02_w[208:210,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5576.95  406.9133   21520.7    -52.89   3957.43     5.109        0.
+# Feb 20 16:33 IC289_02_w[209:211,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.899  393.4791   21232.2    -53.96   3883.76     5.136        0.
+# Feb 20 16:33 IC289_02_w[210:212,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.923   397.359   21148.3    -53.22    3814.6     5.208        0.
+# Feb 20 16:33 IC289_02_w[211:213,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.966  482.7286   21361.3    -44.25   4015.45     4.998        0.
+# Feb 20 16:33 IC289_02_w[212:214,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.088  537.7739   22656.3    -42.13   4412.41     4.824        0.
+# Feb 20 16:33 IC289_02_w[213:215,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.127   557.053   24905.4    -44.71   5086.65       4.6        0.
+# Feb 20 16:33 IC289_02_w[214:216,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.247  467.2547   22505.4    -48.17   4741.58     4.459        0.
+# Feb 20 16:33 IC289_02_w[215:217,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.417  415.0988   18116.2    -43.64   4019.94     4.234        0.
+# Feb 20 16:33 IC289_02_w[216:218,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.727    380.81   12860.8    -33.77   2954.93     4.089        0.
+# Feb 20 16:33 IC289_02_w[217:219,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.397  369.5283   13520.9    -36.59   2558.54     4.965        0.
+# Feb 20 16:33 IC289_02_w[218:220,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.951  374.7497   16792.3    -44.81   2885.64     5.467        0.
+# Feb 20 16:33 IC289_02_w[219:221,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.883  413.7938   18621.7      -45.   3477.32     5.031        0.
+# Feb 20 16:33 IC289_02_w[220:222,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5576.95  430.8265   19627.6    -45.56   3897.88      4.73        0.
+# Feb 20 16:33 IC289_02_w[221:223,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.985  397.5112    20277.    -51.01    4027.9     4.729        0.
+# Feb 20 16:33 IC289_02_w[222:224,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.976  386.4625   20907.8     -54.1   4132.36     4.753        0.
+# Feb 20 16:33 IC289_02_w[223:225,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5576.94  372.6049   21053.8     -56.5   4093.19     4.832        0.
+# Feb 20 16:33 IC289_02_w[224:226,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.996  408.1954   19850.1    -48.63    3956.6     4.713        0.
+# Feb 20 16:33 IC289_02_w[225:227,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.089  414.5007   20221.7    -48.79   3930.79     4.833        0.
+# Feb 20 16:33 IC289_02_w[226:228,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.118  437.0356   19922.9    -45.59   3874.31     4.831        0.
+# Feb 20 16:33 IC289_02_w[227:229,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.04  442.4334    20273.    -45.82   3882.82     4.905        0.
+# Feb 20 16:33 IC289_02_w[228:230,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.991  423.0119   19477.5    -46.04   3799.58     4.816        0.
+# Feb 20 16:33 IC289_02_w[229:231,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.986   426.185   18354.6    -43.07   3598.88     4.791        0.
+# Feb 20 16:33 IC289_02_w[230:232,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.981  425.5195   18246.8    -42.88   3641.31     4.708        0.
+# Feb 20 16:33 IC289_02_w[231:233,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.07   424.272   18874.2    -44.49   3719.49     4.767        0.
+# Feb 20 16:33 IC289_02_w[232:234,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.915  386.4669   19454.4    -50.34   3865.45     4.728        0.
+# Feb 20 16:33 IC289_02_w[233:235,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.004  352.8888    19143.    -54.25    3764.3     4.777        0.
+# Feb 20 16:33 IC289_02_w[234:236,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+    5576.9  383.1827   19288.1    -50.34    3795.1     4.775        0.
+# Feb 20 16:33 IC289_02_w[235:237,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.951  419.5903   19992.8    -47.65   3976.46     4.723        0.
+# Feb 20 16:33 IC289_02_w[236:238,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.981  447.1919    20911.    -46.76   4135.12     4.751        0.
+# Feb 20 16:33 IC289_02_w[237:239,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.05  433.6091   20337.2     -46.9   4010.25     4.764        0.
+# Feb 20 16:33 IC289_02_w[238:240,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.155  436.0081   19743.8    -45.28   3899.44     4.757        0.
+# Feb 20 16:33 IC289_02_w[239:241,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.099  443.6761   19165.3     -43.2   3888.92      4.63        0.
+# Feb 20 16:33 IC289_02_w[240:242,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.066  469.2321   20216.3    -43.08    4055.7     4.683        0.
+# Feb 20 16:33 IC289_02_w[241:243,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.121  500.4504    22362.    -44.68   4363.98     4.814        0.
+# Feb 20 16:33 IC289_02_w[242:244,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.062  520.0814   22526.8    -43.31   4402.25     4.807        0.
+# Feb 20 16:33 IC289_02_w[243:245,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.055  530.8866   21752.6    -40.97   4406.44     4.638        0.
+# Feb 20 16:33 IC289_02_w[244:246,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.125  531.5203   19171.7    -36.07   4051.51     4.445        0.
+# Feb 20 16:33 IC289_02_w[245:247,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.317  594.9377   18607.8    -31.28   4056.63     4.309        0.
+# Feb 20 16:33 IC289_02_w[246:248,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.328  703.6635   17772.4    -25.26   3873.69      4.31        0.
+# Feb 20 16:33 IC289_02_w[247:249,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.334  932.9466   18056.1    -19.35    3828.1     4.431        0.
+# Feb 20 16:33 IC289_02_w[248:250,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.362  1181.249   17633.7    -14.93   3780.16     4.382        0.
+# Feb 20 16:33 IC289_02_w[249:251,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.419  1495.469   18721.9    -12.52    3814.7     4.611        0.
+# Feb 20 16:33 IC289_02_w[250:252,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.406  1701.755   18738.3    -11.01   3813.89     4.616        0.
+# Feb 20 16:33 IC289_02_w[251:253,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.276  1711.315   19081.5    -11.15    3702.4     4.842        0.
+# Feb 20 16:33 IC289_02_w[252:254,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.149   1501.44   18646.1    -12.42   3671.41     4.771        0.
+# Feb 20 16:33 IC289_02_w[253:255,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.039  1198.337    19230.    -16.05   3736.19     4.835        0.
+# Feb 20 16:33 IC289_02_w[254:256,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.949  918.0042   19429.2    -21.16   3764.82     4.848        0.
+# Feb 20 16:33 IC289_02_w[255:257,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.947  735.6295   19664.5    -26.73   3819.44     4.837        0.
+# Feb 20 16:33 IC289_02_w[256:258,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.843  598.6058    20150.    -33.66   3857.02     4.908        0.
+# Feb 20 16:33 IC289_02_w[257:259,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.863  506.9634    21197.    -41.81   3976.02     5.008        0.
+# Feb 20 16:33 IC289_02_w[258:260,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.966  445.9757   20715.1    -46.45   3785.72     5.141        0.
+# Feb 20 16:33 IC289_02_w[259:261,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.126  422.5143   20348.4    -48.16   3818.49     5.006        0.
+# Feb 20 16:33 IC289_02_w[260:262,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.091  443.0758   19912.8    -44.94   3860.76     4.845        0.
+# Feb 20 16:33 IC289_02_w[261:263,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5576.99  430.6544   20663.1    -47.98   4160.66     4.666        0.
+# Feb 20 16:33 IC289_02_w[262:264,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.977  417.3957   20967.7    -50.23   4189.16     4.702        0.
+# Feb 20 16:33 IC289_02_w[263:265,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.02  415.1397   21073.4    -50.76   4155.72     4.764        0.
+# Feb 20 16:33 IC289_02_w[264:266,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.011  441.4406   21204.9    -48.04   4163.86     4.784        0.
+# Feb 20 16:33 IC289_02_w[265:267,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.056  428.4105   21331.8    -49.79   4127.46     4.855        0.
+# Feb 20 16:33 IC289_02_w[266:268,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.09   420.502    20326.    -48.34   3959.51     4.823        0.
+# Feb 20 16:33 IC289_02_w[267:269,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.215  374.6595   21075.9    -56.25   4130.52     4.793        0.
+# Feb 20 16:33 IC289_02_w[268:270,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.178  376.4059   20703.7      -55.   4126.72     4.713        0.
+# Feb 20 16:33 IC289_02_w[269:271,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.108  389.5742   20691.7    -53.11   4262.73      4.56        0.
+# Feb 20 16:33 IC289_02_w[270:272,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.985  392.3957   18838.8    -48.01   3975.96     4.451        0.
+# Feb 20 16:33 IC289_02_w[271:273,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.021  400.1591   18376.4    -45.92   3879.75      4.45        0.
+# Feb 20 16:33 IC289_02_w[272:274,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.051  380.9236   19022.5    -49.94   3895.86     4.587        0.
+# Feb 20 16:33 IC289_02_w[273:275,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.019   376.731   20180.6    -53.57   4003.14     4.736        0.
+# Feb 20 16:33 IC289_02_w[274:276,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.979  408.1774   21262.5    -52.09   4189.52     4.768        0.
+# Feb 20 16:33 IC289_02_w[275:277,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.006  412.5207   21273.7    -51.57   4090.68     4.886        0.
+# Feb 20 16:33 IC289_02_w[276:278,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.093  406.7826   20828.6     -51.2   3988.41     4.906        0.
+# Feb 20 16:33 IC289_02_w[277:279,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.193  387.1277    18616.    -48.09   3808.02     4.593        0.
+# Feb 20 16:33 IC289_02_w[278:280,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.311  367.8024   18355.6    -49.91   3968.48     4.345        0.
+# Feb 20 16:33 IC289_02_w[279:281,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.282  392.0205   18627.4    -47.52   4040.31     4.331        0.
+# Feb 20 16:33 IC289_02_w[280:282,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.225  415.5353   19952.4    -48.02   4129.95     4.539        0.
+# Feb 20 16:33 IC289_02_w[281:283,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.112  456.6922   19919.5    -43.62   3983.44     4.698        0.
+# Feb 20 16:33 IC289_02_w[282:284,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.189  438.3143   19300.2    -44.03   3815.25     4.752        0.
+# Feb 20 16:33 IC289_02_w[283:285,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.254    430.74   18729.3    -43.48   3739.23     4.706        0.
+# Feb 20 16:33 IC289_02_w[284:286,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.248  423.8041   18517.9    -43.69   3791.66     4.588        0.
+# Feb 20 16:33 IC289_02_w[285:287,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.107  448.4618   20139.4    -44.91    4006.5     4.722        0.
+# Feb 20 16:33 IC289_02_w[286:288,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.002  453.5892   21227.8     -46.8   4131.38     4.827        0.
+# Feb 20 16:33 IC289_02_w[287:289,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.008  440.5055   22000.2    -49.94   4274.65     4.835        0.
+# Feb 20 16:33 IC289_02_w[288:290,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.12  431.3064   20804.8    -48.24   4144.33     4.716        0.
+# Feb 20 16:33 IC289_02_w[289:291,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.139  395.1512   20020.6    -50.67   4039.39     4.656        0.
+# Feb 20 16:33 IC289_02_w[290:292,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.159  407.9488   19075.5    -46.76   3824.82     4.685        0.
+# Feb 20 16:33 IC289_02_w[291:293,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.22  383.0971   18521.3    -48.35    3731.3     4.663        0.
+# Feb 20 16:33 IC289_02_w[292:294,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.308  388.7086   18457.6    -47.48   3703.17     4.682        0.
+# Feb 20 16:33 IC289_02_w[293:295,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.438  424.9908   17216.5    -40.51   3668.07     4.409        0.
+# Feb 20 16:33 IC289_02_w[294:296,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.345  450.0364    18303.    -40.67   3694.38     4.654        0.
+# Feb 20 16:33 IC289_02_w[295:297,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.174  458.3244   18798.5    -41.02   3709.06     4.761        0.
+# Feb 20 16:33 IC289_02_w[296:298,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.09  417.2414   20003.2    -47.94    3816.4     4.924        0.
+# Feb 20 16:33 IC289_02_w[297:299,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.098  417.9684   19851.4    -47.49    4007.1     4.654        0.
+# Feb 20 16:33 IC289_02_w[298:300,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.144   439.004   20001.4    -45.56   4108.26     4.574        0.
+# Feb 20 16:33 IC289_02_w[299:301,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.167  436.8409   21093.2    -48.29     4377.     4.527        0.
+# Feb 20 16:33 IC289_02_w[300:302,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.122  414.6248   21304.2    -51.38   4306.23     4.648        0.
+# Feb 20 16:33 IC289_02_w[301:303,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.123  454.7614   21261.7    -46.75   4309.64     4.635        0.
+# Feb 20 16:33 IC289_02_w[302:304,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.126  447.8887   20937.7    -46.75   4300.28     4.574        0.
+# Feb 20 16:33 IC289_02_w[303:305,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.226  495.4448   22060.4    -44.53   4534.39      4.57        0.
+# Feb 20 16:33 IC289_02_w[304:306,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.393  404.4966   21719.5     -53.7    4464.2     4.571        0.
+# Feb 20 16:33 IC289_02_w[305:307,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.523  400.3731   20542.7    -51.31   4233.12     4.559        0.
+# Feb 20 16:33 IC289_02_w[306:308,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.749  393.8904   17022.5    -43.22   3722.16     4.296        0.
+# Feb 20 16:33 IC289_02_w[307:309,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.764  425.9418   16298.6    -38.26   3591.89     4.263        0.
+# Feb 20 16:33 IC289_02_w[308:310,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.598  436.5839   16905.7    -38.72   3589.14     4.425        0.
+# Feb 20 16:33 IC289_02_w[309:311,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.367  399.6747   18755.9    -46.93    3903.8     4.514        0.
+# Feb 20 16:33 IC289_02_w[310:312,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.324  379.1413   19524.8     -51.5   4024.65     4.557        0.
+# Feb 20 16:33 IC289_02_w[311:313,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.34  388.3847    19107.     -49.2   3888.71     4.616        0.
+# Feb 20 16:33 IC289_02_w[312:314,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.426  377.1362   19829.3    -52.58   3886.54     4.793        0.
+# Feb 20 16:33 IC289_02_w[313:315,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.334  392.5449   19899.7    -50.69    3878.8      4.82        0.
+# Feb 20 16:33 IC289_02_w[314:316,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.247   390.897   19839.5    -50.75   3969.58     4.695        0.
+# Feb 20 16:33 IC289_02_w[315:317,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.241   407.052   19944.8      -49.   4157.16     4.507        0.
+# Feb 20 16:33 IC289_02_w[316:318,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.281  388.8211   19655.1    -50.55   4070.17     4.537        0.
+# Feb 20 16:33 IC289_02_w[317:319,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.347  371.7401   19137.7    -51.48   3914.84     4.592        0.
+# Feb 20 16:33 IC289_02_w[318:320,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.377  380.4528   18368.5    -48.28   3683.43     4.685        0.
+# Feb 20 16:33 IC289_02_w[319:321,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.258  371.0674   18688.5    -50.36   3730.23     4.707        0.
+# Feb 20 16:33 IC289_02_w[320:322,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.153  374.8377   20042.2    -53.47   3877.15     4.856        0.
+# Feb 20 16:33 IC289_02_w[321:323,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.015  385.1302   20475.6    -53.17     3985.     4.827        0.
+# Feb 20 16:33 IC289_02_w[322:324,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5576.96  420.9048   20747.8    -49.29   4046.34     4.817        0.
+# Feb 20 16:33 IC289_02_w[323:325,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.02  414.5643   19935.2    -48.09    4071.8     4.599        0.
+# Feb 20 16:33 IC289_02_w[324:326,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.13  382.8961   19279.9    -50.35   3965.81     4.567        0.
+# Feb 20 16:33 IC289_02_w[325:327,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.163  365.3219   18988.6    -51.98   3935.45     4.533        0.
+# Feb 20 16:33 IC289_02_w[326:328,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.225    376.53   19183.7    -50.95   3973.97     4.535        0.
+# Feb 20 16:33 IC289_02_w[327:329,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.135  389.7438   19546.5    -50.15   4030.61     4.556        0.
+# Feb 20 16:33 IC289_02_w[328:330,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.177  402.8212   19457.3     -48.3   3933.24     4.647        0.
+# Feb 20 16:33 IC289_02_w[329:331,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.16  396.7592   19293.5    -48.63   3902.99     4.644        0.
+# Feb 20 16:33 IC289_02_w[330:332,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.199  401.0993   19237.7    -47.96   3909.52     4.623        0.
+# Feb 20 16:33 IC289_02_w[331:333,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.161  381.0374   18681.8    -49.03   3831.45     4.581        0.
+# Feb 20 16:33 IC289_02_w[332:334,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.127  380.8243    18667.    -49.02   3685.39     4.758        0.
+# Feb 20 16:33 IC289_02_w[333:335,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.125  389.6526    19044.    -48.87   3734.06     4.791        0.
+# Feb 20 16:33 IC289_02_w[334:336,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.072   395.442   20527.1    -51.91   3951.59      4.88        0.
+# Feb 20 16:33 IC289_02_w[335:337,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.023  426.5383    21816.    -51.15   4222.25     4.854        0.
+# Feb 20 16:33 IC289_02_w[336:338,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.123  417.8854   21273.8    -50.91   4067.23     4.914        0.
+# Feb 20 16:33 IC289_02_w[337:339,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.251  407.1659   19806.6    -48.64   3901.36     4.769        0.
+# Feb 20 16:33 IC289_02_w[338:340,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+    5577.3  384.5185   18760.2    -48.79    3759.3     4.688        0.
+# Feb 20 16:33 IC289_02_w[339:341,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.224  381.6104   18896.3    -49.52   3866.56     4.591        0.
+# Feb 20 16:33 IC289_02_w[340:342,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.152  391.8851    18820.    -48.02   3799.44     4.653        0.
+# Feb 20 16:33 IC289_02_w[341:343,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.115   405.674   19154.4    -47.22   3896.31     4.618        0.
+# Feb 20 16:33 IC289_02_w[342:344,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.122  411.9482   18537.3      -45.   3799.01     4.584        0.
+# Feb 20 16:33 IC289_02_w[343:345,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.123  421.9001   19563.1    -46.37   3976.32     4.622        0.
+# Feb 20 16:33 IC289_02_w[344:346,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.151  421.0078   19062.9    -45.28   3925.13     4.563        0.
+# Feb 20 16:33 IC289_02_w[345:347,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.173  420.3119   19418.4     -46.2   3938.19     4.632        0.
+# Feb 20 16:33 IC289_02_w[346:348,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.302  401.7153   18208.1    -45.33   3700.33     4.623        0.
+# Feb 20 16:33 IC289_02_w[347:349,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.391  398.4966   17975.1    -45.11   3547.45      4.76        0.
+# Feb 20 16:33 IC289_02_w[348:350,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.301  365.5498   17947.4     -49.1   3584.73     4.703        0.
+# Feb 20 16:33 IC289_02_w[349:351,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.238  374.1928   18751.4    -50.11   3852.32     4.573        0.
+# Feb 20 16:33 IC289_02_w[350:352,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.178  381.5106   19232.3    -50.41   3951.95     4.572        0.
+# Feb 20 16:33 IC289_02_w[351:353,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.123  385.7761    19859.    -51.48   3949.79     4.723        0.
+# Feb 20 16:33 IC289_02_w[352:354,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.024  383.1804    20321.    -53.03   3875.26     4.926        0.
+# Feb 20 16:33 IC289_02_w[353:355,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.067  365.1418   20614.9    -56.46   3900.23     4.965        0.
+# Feb 20 16:33 IC289_02_w[354:356,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.092  380.4601   20227.5    -53.17    3875.7     4.903        0.
+# Feb 20 16:33 IC289_02_w[355:357,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.025    387.11   19914.2    -51.44   3916.12     4.777        0.
+# Feb 20 16:33 IC289_02_w[356:358,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.967  408.3122   19238.3    -47.12   3937.96     4.589        0.
+# Feb 20 16:33 IC289_02_w[357:359,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.975  411.4536   19329.9    -46.98   3992.63     4.548        0.
+# Feb 20 16:33 IC289_02_w[358:360,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.995  422.1497   19180.9    -45.44   3935.69     4.578        0.
+# Feb 20 16:33 IC289_02_w[359:361,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.003   402.789   19974.9    -49.59   3985.42     4.708        0.
+# Feb 20 16:33 IC289_02_w[360:362,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.904  395.9188   20070.7    -50.69   3908.96     4.824        0.
+# Feb 20 16:33 IC289_02_w[361:363,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.895  385.8253   19999.2    -51.83   3906.11      4.81        0.
+# Feb 20 16:33 IC289_02_w[362:364,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.947   392.889   20064.1    -51.07   3982.04     4.733        0.
+# Feb 20 16:33 IC289_02_w[363:365,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.059  388.6504    20673.    -53.19   4181.87     4.644        0.
+# Feb 20 16:33 IC289_02_w[364:366,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.054  412.7285   21066.3    -51.04   4199.14     4.713        0.
+# Feb 20 16:33 IC289_02_w[365:367,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+     5577.  406.5438   21797.3    -53.62   4310.67      4.75        0.
+# Feb 20 16:33 IC289_02_w[366:368,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.066  403.5495   20998.1    -52.03   4115.54     4.793        0.
+# Feb 20 16:33 IC289_02_w[367:369,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.182  403.5457   20701.2     -51.3   4155.74      4.68        0.
+# Feb 20 16:33 IC289_02_w[368:370,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+    5577.3  388.1234   19551.1    -50.37   4034.87     4.552        0.
+# Feb 20 16:33 IC289_02_w[369:371,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.212  362.8792   20065.9     -55.3   4129.43     4.565        0.
+# Feb 20 16:33 IC289_02_w[370:372,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.072  352.9307   20476.9    -58.02   4159.01     4.625        0.
+# Feb 20 16:33 IC289_02_w[371:373,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.978  349.4183   20941.2    -59.93   4141.84      4.75        0.
+# Feb 20 16:33 IC289_02_w[372:374,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.984  375.9939   20992.8    -55.83   4070.67     4.845        0.
+# Feb 20 16:33 IC289_02_w[373:375,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.987  388.9186   20452.2    -52.59   3999.65     4.804        0.
+# Feb 20 16:33 IC289_02_w[374:376,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.002  409.1978   20354.2    -49.74   3926.42      4.87        0.
+# Feb 20 16:33 IC289_02_w[375:377,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.937  416.6493   20236.8    -48.57   3917.49     4.853        0.
+# Feb 20 16:33 IC289_02_w[376:378,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.979  383.8799   20501.9    -53.41   3931.52     4.899        0.
+# Feb 20 16:33 IC289_02_w[377:379,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.011  371.6162   20443.3    -55.01   3919.92     4.899        0.
+# Feb 20 16:33 IC289_02_w[378:380,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.057  352.5691   20373.9    -57.79   3909.16     4.896        0.
+# Feb 20 16:33 IC289_02_w[379:381,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.013   366.218   21052.2    -57.49   4151.33     4.764        0.
+# Feb 20 16:33 IC289_02_w[380:382,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.946  360.3888   21488.3    -59.63   4272.45     4.725        0.
+# Feb 20 16:33 IC289_02_w[381:383,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+     5577.  369.4437   21296.3    -57.64   4302.08      4.65        0.
+# Feb 20 16:33 IC289_02_w[382:384,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.015  375.2245    20315.    -54.14   4012.88     4.756        0.
+# Feb 20 16:33 IC289_02_w[383:385,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.118  385.3405   18988.2    -49.28   3865.42     4.615        0.
+# Feb 20 16:33 IC289_02_w[384:386,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.183  379.0027   18557.2    -48.96   3779.11     4.613        0.
+# Feb 20 16:33 IC289_02_w[385:387,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.209  392.1506    18144.    -46.27   3788.14       4.5        0.
+# Feb 20 16:33 IC289_02_w[386:388,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.177   382.895   19088.1    -49.85   3904.35     4.593        0.
+# Feb 20 16:33 IC289_02_w[387:389,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.112  389.2751   19776.5     -50.8   3966.44     4.684        0.
+# Feb 20 16:33 IC289_02_w[388:390,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.023  367.3025   20469.2    -55.73   4031.31      4.77        0.
+# Feb 20 16:33 IC289_02_w[389:391,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.063  382.4451   19285.3    -50.43   3804.25     4.762        0.
+# Feb 20 16:33 IC289_02_w[390:392,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.114   380.095   19563.6    -51.47   3859.23     4.762        0.
+# Feb 20 16:33 IC289_02_w[391:393,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.146  393.2902   19512.8    -49.61   3833.05     4.782        0.
+# Feb 20 16:33 IC289_02_w[392:394,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.161  376.5811   20662.8    -54.87   4015.33     4.834        0.
+# Feb 20 16:33 IC289_02_w[393:395,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.144  374.1697   20626.8    -55.13   3993.71     4.852        0.
+# Feb 20 16:33 IC289_02_w[394:396,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.085  376.5098   21476.6    -57.04   4056.59     4.974        0.
+# Feb 20 16:33 IC289_02_w[395:397,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.965  409.7136   21775.8    -53.15   4058.75      5.04        0.
+# Feb 20 16:33 IC289_02_w[396:398,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.996  412.2305    21197.    -51.42    4047.9     4.919        0.
+# Feb 20 16:33 IC289_02_w[397:399,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.123  414.6565   20578.5    -49.63   3983.32     4.853        0.
+# Feb 20 16:33 IC289_02_w[398:400,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.275  386.3967   19444.4    -50.32   3976.92     4.593        0.
+# Feb 20 16:33 IC289_02_w[399:401,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.266  397.3768   18838.6    -47.41   3885.59     4.555        0.
+# Feb 20 16:33 IC289_02_w[400:402,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.288  376.5296   18386.8    -48.83   3800.17     4.545        0.
+# Feb 20 16:33 IC289_02_w[401:403,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.096  380.7048   18894.2    -49.63   3814.82     4.653        0.
+# Feb 20 16:33 IC289_02_w[402:404,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.061  376.1153   20163.1    -53.61   3955.76     4.788        0.
+# Feb 20 16:33 IC289_02_w[403:405,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.014  388.5835   21428.8    -55.15   4113.17     4.894        0.
+# Feb 20 16:33 IC289_02_w[404:406,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.088   403.056   22106.9    -54.85   4180.55     4.968        0.
+# Feb 20 16:33 IC289_02_w[405:407,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.05  386.6122   21228.2    -54.91   4017.71     4.964        0.
+# Feb 20 16:33 IC289_02_w[406:408,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.118  390.5145   19794.7    -50.69   3875.45     4.798        0.
+# Feb 20 16:33 IC289_02_w[407:409,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.194  390.3828   18223.8    -46.68   3740.41     4.577        0.
+# Feb 20 16:33 IC289_02_w[408:410,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.268  402.4302   17877.7    -44.42   3705.98     4.532        0.
+# Feb 20 16:33 IC289_02_w[409:411,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.159  411.5893   19149.6    -46.53   3867.51     4.652        0.
+# Feb 20 16:33 IC289_02_w[410:412,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.149  400.9226   20265.4    -50.55    3895.3     4.887        0.
+# Feb 20 16:33 IC289_02_w[411:413,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.151  405.3602   21358.7    -52.69   4155.32     4.829        0.
+# Feb 20 16:33 IC289_02_w[412:414,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.235  426.6127   21678.7    -50.82   4225.98     4.819        0.
+# Feb 20 16:33 IC289_02_w[413:415,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.319  411.9405   22452.4     -54.5    4331.8     4.869        0.
+# Feb 20 16:33 IC289_02_w[414:416,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.329  407.0982   22895.8    -56.24   4434.87      4.85        0.
+# Feb 20 16:33 IC289_02_w[415:417,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.464  393.0291   20313.5    -51.68   4251.47     4.489        0.
+# Feb 20 16:33 IC289_02_w[416:418,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.554   381.402   17789.7    -46.64   4001.31     4.177        0.
+# Feb 20 16:33 IC289_02_w[417:419,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.625  366.5185   15620.5    -42.62   3640.76     4.031        0.
+# Feb 20 16:33 IC289_02_w[418:420,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.605  354.3109   15728.4    -44.39   3526.81      4.19        0.
+# Feb 20 16:33 IC289_02_w[419:421,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.455  348.5815   17229.3    -49.43    3615.4     4.477        0.
+# Feb 20 16:33 IC289_02_w[420:422,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.345  370.3379   18714.5    -50.53   3803.52     4.622        0.
+# Feb 20 16:33 IC289_02_w[421:423,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.248  370.6765    19796.     -53.4   3872.36     4.803        0.
+# Feb 20 16:33 IC289_02_w[422:424,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.138  392.9025   19674.6    -50.08   3773.78     4.898        0.
+# Feb 20 16:33 IC289_02_w[423:425,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.109  392.6768   19537.6    -49.76    3715.2      4.94        0.
+# Feb 20 16:33 IC289_02_w[424:426,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.142  389.7805    19727.    -50.61    3706.2        5.        0.
+# Feb 20 16:33 IC289_02_w[425:427,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.219  377.5388   19942.6    -52.82   3833.19     4.888        0.
+# Feb 20 16:33 IC289_02_w[426:428,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.061  347.7417   20469.4    -58.86   3793.98     5.068        0.
+# Feb 20 16:33 IC289_02_w[427:429,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.988  349.4458   20158.6    -57.69   3803.27     4.979        0.
+# Feb 20 16:33 IC289_02_w[428:430,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.998  346.8454   20699.7    -59.68   3781.32     5.143        0.
+# Feb 20 16:33 IC289_02_w[429:431,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.119  369.3978   21148.7    -57.25    3814.7     5.208        0.
+# Feb 20 16:33 IC289_02_w[430:432,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.112  387.2844   21390.8    -55.23   3903.93     5.147        0.
+# Feb 20 16:33 IC289_02_w[431:433,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.071  406.8766   20118.2    -49.45    3873.8     4.879        0.
+# Feb 20 16:33 IC289_02_w[432:434,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.09  410.3901   19114.6    -46.58   3845.41      4.67        0.
+# Feb 20 16:33 IC289_02_w[433:435,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.947  379.8458   18555.6    -48.85   3741.93     4.658        0.
+# Feb 20 16:33 IC289_02_w[434:436,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5576.94  363.2693   19199.7    -52.85   3776.99     4.775        0.
+# Feb 20 16:33 IC289_02_w[435:437,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+     5577.  343.3071   19288.9    -56.19   3770.58     4.806        0.
+# Feb 20 16:33 IC289_02_w[436:438,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.194  355.2893   19224.1    -54.11   3852.76     4.688        0.
+# Feb 20 16:33 IC289_02_w[437:439,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.143  363.3447   18843.9    -51.86   3785.44     4.677        0.
+# Feb 20 16:33 IC289_02_w[438:440,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.077  369.6863   19726.6    -53.36    3843.1     4.822        0.
+# Feb 20 16:33 IC289_02_w[439:441,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5576.998  387.0253   19820.7    -51.21   3752.11     4.963        0.
+# Feb 20 16:33 IC289_02_w[440:442,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.045  395.1859   20685.9    -52.34   3825.96     5.079        0.
+# Feb 20 16:33 IC289_02_w[441:443,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.056  408.8218   19859.6    -48.58   3776.76      4.94        0.
+# Feb 20 16:33 IC289_02_w[442:444,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.082  400.8895   19338.5    -48.24    3691.1     4.922        0.
+# Feb 20 16:33 IC289_02_w[443:445,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.155  392.1713   19852.8    -50.62   3939.13     4.735        0.
+# Feb 20 16:33 IC289_02_w[444:446,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.196  409.7673   20413.9    -49.82   3930.69     4.879        0.
+# Feb 20 16:33 IC289_02_w[445:447,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.241  437.2174   20202.7    -46.21   3967.06     4.784        0.
+# Feb 20 16:33 IC289_02_w[446:448,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.24  415.9187   19698.9    -47.36   3810.54     4.856        0.
+# Feb 20 16:33 IC289_02_w[447:449,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.219  400.4798   18236.2    -45.54   3660.65      4.68        0.
+# Feb 20 16:33 IC289_02_w[448:450,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.218  361.9628   18899.7    -52.21   3841.25     4.622        0.
+# Feb 20 16:33 IC289_02_w[449:451,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.152  373.1831   18422.3    -49.37   3764.82     4.597        0.
+# Feb 20 16:33 IC289_02_w[450:452,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.177  364.7036   19230.2    -52.73    3937.4     4.588        0.
+# Feb 20 16:33 IC289_02_w[451:453,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.155  359.9792   18888.2    -52.47   3697.26     4.799        0.
+# Feb 20 16:33 IC289_02_w[452:454,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.211     347.3   19871.4    -57.22   3817.99     4.889        0.
+# Feb 20 16:33 IC289_02_w[453:455,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.127   366.726   19735.6    -53.82    3771.6     4.916        0.
+# Feb 20 16:33 IC289_02_w[454:456,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.13  355.1489   20572.2    -57.93   3935.54     4.911        0.
+# Feb 20 16:33 IC289_02_w[455:457,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.103  369.1889   19845.4    -53.75   3870.89     4.816        0.
+# Feb 20 16:33 IC289_02_w[456:458,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.176  360.7345   19937.2    -55.27   3861.77      4.85        0.
+# Feb 20 16:33 IC289_02_w[457:459,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.168  371.7671   19730.9    -53.07   3780.46     4.903        0.
+# Feb 20 16:33 IC289_02_w[458:460,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.122  386.9081   19500.4     -50.4   3708.53      4.94        0.
+# Feb 20 16:33 IC289_02_w[459:461,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.139  395.8394   19538.4    -49.36   3733.86     4.916        0.
+# Feb 20 16:33 IC289_02_w[460:462,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.125  403.3309   19577.5    -48.54   3757.19     4.895        0.
+# Feb 20 16:33 IC289_02_w[461:463,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.112  377.2207   19675.6    -52.16   3726.51      4.96        0.
+# Feb 20 16:33 IC289_02_w[462:464,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.025  357.6132   19912.4    -55.68   3655.14     5.118        0.
+# Feb 20 16:33 IC289_02_w[463:465,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.052  382.6533   18772.9    -49.06   3551.93     4.965        0.
+# Feb 20 16:33 IC289_02_w[464:466,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.054  392.8847   18549.2    -47.21   3610.74     4.826        0.
+# Feb 20 16:33 IC289_02_w[465:467,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.058  414.7968   18217.9    -43.92   3600.06     4.754        0.
+# Feb 20 16:33 IC289_02_w[466:468,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.059  389.3245    19228.    -49.39   3639.59     4.963        0.
+# Feb 20 16:33 IC289_02_w[467:469,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.023  400.6608   18683.5    -46.63   3523.52     4.981        0.
+# Feb 20 16:33 IC289_02_w[468:470,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.071  363.0582   19322.9    -53.22   3537.74     5.131        0.
+# Feb 20 16:33 IC289_02_w[469:471,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.154   361.958   18673.6    -51.59   3424.78     5.122        0.
+# Feb 20 16:33 IC289_02_w[470:472,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.212   363.025   18663.6    -51.41   3466.56     5.058        0.
+# Feb 20 16:33 IC289_02_w[471:473,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.275  391.3281   17605.2    -44.99   3361.37      4.92        0.
+# Feb 20 16:33 IC289_02_w[472:474,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.242  370.9566   18675.1    -50.34   3648.43     4.809        0.
+# Feb 20 16:33 IC289_02_w[473:475,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.215  358.5465    19792.     -55.2   3704.75     5.019        0.
+# Feb 20 16:33 IC289_02_w[474:476,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.092  350.4312   20583.8    -58.74   3880.92     4.983        0.
+# Feb 20 16:33 IC289_02_w[475:477,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.049  393.5523   19863.8    -50.47   3752.56     4.973        0.
+# Feb 20 16:33 IC289_02_w[476:478,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.135  381.0646   18887.8    -49.57   3686.85     4.813        0.
+# Feb 20 16:33 IC289_02_w[477:479,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.184  384.2216   18246.5    -47.49   3530.73     4.855        0.
+# Feb 20 16:33 IC289_02_w[478:480,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   5577.24  352.3964   18108.9    -51.39   3493.27      4.87        0.
+# Feb 20 16:33 IC289_02_w[479:481,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.145  377.0969   17989.6    -47.71   3442.37     4.909        0.
+# Feb 20 16:33 IC289_02_w[480:482,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.164  358.1816   18389.1    -51.34   3563.97     4.847        0.
+# Feb 20 16:33 IC289_02_w[481:483,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.182  347.8184   18542.3    -53.31   3615.97     4.817        0.
+# Feb 20 16:33 IC289_02_w[482:484,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.202  361.1014   18274.2    -50.61   3598.36     4.771        0.
+# Feb 20 16:33 IC289_02_w[483:485,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.166  383.3392   17672.2     -46.1   3515.01     4.723        0.
+# Feb 20 16:33 IC289_02_w[484:486,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.148  388.6326    18192.    -46.81   3419.12     4.998        0.
+# Feb 20 16:33 IC289_02_w[485:487,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.126  391.1895   18784.2    -48.02   3440.32     5.129        0.
+# Feb 20 16:33 IC289_02_w[486:488,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.076  369.9216    19132.    -51.72   3450.13     5.209        0.
+# Feb 20 16:33 IC289_02_w[487:489,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.104  378.6222   19331.5    -51.06   3646.28     4.981        0.
+# Feb 20 16:33 IC289_02_w[488:490,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.148   361.649   18747.8    -51.84   3581.44     4.918        0.
+# Feb 20 16:33 IC289_02_w[489:491,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.244  345.9791   18639.1    -53.87   3513.23     4.984        0.
+# Feb 20 16:33 IC289_02_w[490:492,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.258  349.7668   17543.4    -50.16   3351.93     4.917        0.
+# Feb 20 16:33 IC289_02_w[491:493,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.282  343.3225   17902.4    -52.14   3435.69     4.895        0.
+# Feb 20 16:33 IC289_02_w[492:494,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.249  358.6293   17698.1    -49.35    3350.7     4.962        0.
+# Feb 20 16:33 IC289_02_w[493:495,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.277  359.5066   17997.7    -50.06   3311.61     5.106        0.
+# Feb 20 16:33 IC289_02_w[494:496,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+    5577.2  351.1356   19399.9    -55.25   3486.41     5.227        0.
+# Feb 20 16:33 IC289_02_w[495:497,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.271  349.0848   19919.2    -57.06   3640.27     5.141        0.
+# Feb 20 16:33 IC289_02_w[496:498,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.222  332.5236   20188.7    -60.71    3644.6     5.204        0.
+# Feb 20 16:33 IC289_02_w[497:499,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.312  349.1508   18376.8    -52.63   3355.97     5.144        0.
+# Feb 20 16:33 IC289_02_w[498:500,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.252  335.6364   18311.6    -54.56   3377.93     5.093        0.
+# Feb 20 16:33 IC289_02_w[499:500,*]: ic289
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.249  228.8943   11869.9    -51.86   2232.67     4.994        0.

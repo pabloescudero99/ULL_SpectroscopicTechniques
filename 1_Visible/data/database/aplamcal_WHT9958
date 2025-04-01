@@ -1,0 +1,38 @@
+# Thu 15:32:24 08-Feb-2024
+begin	aperture lamcal_WHT9958 1 242.8607 860.
+	image	lamcal_WHT9958
+	aperture	1
+	beam	1
+	center	242.8607 860.
+	low	-12. -859.
+	high	12. 861.
+	background
+		xmin -55.
+		xmax 55.
+		function legendre
+		order 2
+		sample -55:-25,25:55
+		naverage -3
+		niterate 3
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	1
+	curve	16
+		2.
+		12.
+		20.
+		1720.
+		-0.09835233
+		-0.2485222
+		-0.2427525
+		0.07149951
+		-0.07042632
+		0.04328989
+		-0.00753292
+		-0.01357015
+		0.01871451
+		-0.02343708
+		0.03748855
+		-0.02117992
+

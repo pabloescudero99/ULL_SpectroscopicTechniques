@@ -1,0 +1,649 @@
+%!PS-Adobe-1.0 
+%%Creator: PSIKern - An IRAF GKI Translator 
+%%CreationDate: Tue 16:02:29 30-Jan-2024 
+%%DocumentFonts: (atend) 
+%%Pages: (atend) 
+%%BoundingBox: 2 2 557 737 
+%%EndComments 
+/MAXNDC 4095 def /PageSizeXMeter 0.2594 def /PageSizeYMeter 0.1959 def 
+/PageOffXMeter 0.001 def /PageOffYMeter 0.001 def 
+/PortraitMode false def /PortraitRotation 0. def 
+/LandScapeRotation 90. def /GT_LEFT 2 def /GT_RIGHT 3 def 
+/GT_TOP 6 def /GT_BOTTOM 7 def /GT_UP 4 def /GT_DOWN 5 def 
+/GT_CENTER 1 def /RF /Times-Roman def /GF /Symbol def 
+/IF /Times-Italic def /BF /Times-Bold def /DASH 49 def /DOT 4 def 
+/SPACE 24 def 
+
+% How to define things.
+/BD { bind def } bind def 
+/LD { load def } bind def
+
+% Constants
+/yes true def
+/no false def
+
+% Define some shorthand instructions.
+/GRS /grestore LD 
+/GS /gsave LD 
+/MK /mark LD
+/R /restore LD 
+/S /save LD
+/SH /showpage LD 
+/SW /setlinewidth LD
+
+% Measurement conversions.
+/PointperMeter 2834.64 def
+/MonoScale .7 def
+
+% PDF mark definition to avoid errors in printing Postscript
+/pdfmark where {pop} {userdict /pdfmark /cleartomark load put} ifelse
+/languagelevel where {pop languagelevel }{1} ifelse
+2 lt {
+    userdict (<<) cvn ([) cvn load put
+    userdict (>>) cvn (]) cvn load put
+} if
+
+% SR: Set current path to page: - -> -
+/DG true store
+/SR { DG {1 setlinecap} {0 setlinecap} ifelse 
+  currentpoint stroke moveto /DG true store
+} BD
+
+% CL: CLear the page: - -> -
+/CL { restore showpage grestore } BD
+
+% rectfill : Fill a rectangle: x y width height -> -
+/rectfill where
+  {pop}
+  {/rectfill {
+	gsave
+	newpath
+	4 2 roll
+	moveto
+	exch dup 0 rlineto
+	exch 0 exch rlineto
+	neg 0 rlineto
+	closepath
+	fill
+	grestore
+    } BD
+  } ifelse
+
+% SetBack: Set the background:
+/SetBack {
+    /BACKCOLOR where {
+	pop BACKCOLOR SC 0 0 MAXNDC MAXNDC rectfill
+    } if
+} BD
+
+% NP: Start a new page:
+/NP {
+	gsave
+	save
+	SetBack
+} BD
+
+% RC: Read Coordinates: string -> x y
+/RC {
+  currentfile read pop 8#77 and 6 bitshift
+  currentfile read pop 8#77 and or
+  currentfile read pop 8#77 and 6 bitshift
+  currentfile read pop 8#77 and or
+} BD
+
+% DO - Determine Offset: length -> offset
+/DO { DS dup 0 eq { pop pop 0 } { mod } ifelse } BD
+
+% M: Move: M string -> -
+% Move to a point and clear length of path.
+/CX 0 def
+/CY 0 def
+/M { RC 2 copy /CY exch def /CX exch def moveto CT OF setdash } BD
+
+% D: Draw: D string -> -
+% This also calculates the length of the current path.
+/OF 0 def
+/D { RC DS 0 ne { 2 copy currentpoint exch 4 1 roll sub dup mul 3 1 roll 
+   sub dup mul add sqrt round OF add cvi DO /OF exch store } if
+   DG { 2 copy CY eq exch CX eq and /DG exch def } if
+   lineto 
+} BD
+
+% Character/Font definitions.
+
+% FS -- Define the current font size: xsize ysize FS -
+/FontXSize 0 def /FontYSize 0 def /NewFont true def
+/FS { /FontYSize exch MonoScale mul store /FontXSize exch MonoScale mul store 
+      /NewFont true store } BD
+
+% PH -- Set the current path: path PH -
+/Path 0 def
+/PH { /Path exch store } BD
+
+% PA -- Set the path angle of the text: angle PA -
+/Angle 0 def
+/PA { 360 mod dup 0 lt { 360 add } if /Angle exch store /NewFont true store } BD
+
+% HJ, VJ -- Set Horizontal/Verticle Justification: just HJ/VJ -
+/HorzJust 0 def /VertJust 0 def
+/HJ { /HorzJust exch store } BD /VJ { /VertJust exch store } BD
+
+% VT -- Use mono- or variable-spaced fonts: flag VT -
+/VT true def
+/VT { /Variable exch store } BD
+
+% SetFont -- Make the required font the default: font SetFont -
+% Note scale factor- This is to fill out monospaced better and match other
+% IRAF output.
+/Font () def
+/FontMatrix matrix def
+/SetFont {
+   dup Font ne NewFont or
+   { dup /Font exch store findfont 
+      Angle matrix rotate FontXSize MonoScale div FontYSize MonoScale div 
+      matrix scale matrix concatmatrix makefont setfont Angle matrix rotate 
+      FontXSize FontYSize matrix scale matrix concatmatrix /FontMatrix exch 
+      store 
+   } 
+   { pop } ifelse /NewFont false store
+} BD
+
+% StringWidth -- Determine path length of string: string StringWidth - xs ys
+/StringWidth { Path GT_RIGHT eq Variable and { stringwidth }
+   {  Path GT_RIGHT  eq { length } { pop 1 } ifelse 0 FontMatrix transform }
+   ifelse 
+} BD
+
+% MonoShow -- Write the string out in mono-spaced: string MonoShow -
+/MonoShow {
+  /t 1 string def 1 0 FontMatrix transform 
+  /dy exch def /dx exch def Path GT_RIGHT eq { /mx dx def /my dy def }
+  { 0 1 FontMatrix transform /my exch def /mx exch def } ifelse
+  { t 0 3 -1 roll put t dup stringwidth dy exch sub 2 div exch dx exch
+     sub 2 div exch gsave rmoveto show grestore  mx my rmoveto
+  } forall
+} BD
+
+% WS -- Draw the string: <mark> string font string ... DS -
+/*WSDict 13 dict def
+/WS { *WSDict begin
+   counttomark 2 idiv dup dup array /FontArray exch def
+   array /StringArray exch def 1 sub /NStrings exch def
+
+   NStrings -1 0 {
+      dup 4 1 roll exch StringArray 3 1 roll put FontArray 3 1 roll put
+   } for
+   pop
+
+   /XSize 0 def /YSize 0 def /NChars 0 def
+   0 1 NStrings {
+      dup FontArray exch get SetFont StringArray exch get dup
+      length NChars add /NChars exch def  StringWidth
+      YSize add /YSize exch def XSize add /XSize exch def
+   } for
+
+   /TAngle HorzJust GT_RIGHT eq
+   { Angle 180 add dup 360 ge { 360 sub } if } { Angle } ifelse def
+   0 TAngle 180 le HorzJust GT_CENTER eq or
+   { Angle sin FontYSize mul Path GT_UP eq { NChars mul } if add } if
+   TAngle 90 ge TAngle 270 le and HorzJust GT_CENTER eq or
+   { Path GT_RIGHT eq { XSize } { Angle cos FontXSize mul } ifelse sub } if
+   HorzJust GT_CENTER eq { .5 mul } if
+
+   /TAngle
+   VertJust GT_TOP eq { Angle 180 sub dup 0 lt { 360 add } if } { Angle } ifelse
+   def
+   0 TAngle 90 ge TAngle 270 le and VertJust GT_CENTER eq or
+   { Angle cos FontYSize mul Path GT_UP eq { NChars mul } if sub } if
+   TAngle 180 ge TAngle 360 le and VertJust GT_CENTER eq or
+ { Path GT_RIGHT eq { YSize } { Angle sin FontXSize mul } ifelse sub } if
+   VertJust GT_CENTER eq { .5 mul } if
+   rmoveto
+
+   0 1 NStrings {
+      dup FontArray exch get SetFont StringArray exch get
+      Path GT_RIGHT eq Variable and { show } { MonoShow } ifelse
+   } for
+
+   end
+} BD
+
+% Define the DASHED, DOTTED, DOTDASH patterns.
+/DS 0 def
+/LPS { 
+  /OF 0 store /DS 0 store 0 array 
+} BD
+/LPD {
+  /OF 0 store DASH SPACE 2 copy add /DS exch store 2 array astore 
+} BD
+/LPP {
+  /OF 0 store  DOT SPACE 2 copy add /DS exch store 2 array astore
+} BD
+/LDD {
+  /OF 0 store DOT SPACE DASH SPACE 4 copy add add add /DS exch store 
+  4 array astore
+} BD
+
+% LT - Set Line Type - array -> -
+/CT { currentdash pop } BD
+/LT { /CT exch store /OF 0 store } BD
+
+% SC - Set Color: color -> -
+/*SCDict 1 dict def
+/SC { *SCDict begin
+  /color exch def
+  GR color get 255 div GG color get 255 div GB color get 255 div setrgbcolor
+  end
+} BD
+
+% MI - Make Image LUT: table-name size MI hexstring -> -
+/MI { currentfile exch string readhexstring pop def } BD
+
+% Define the graphics color lookup table.
+/GR 16 MI FF00FF0000FF00FFFFB0FFF0D940F0F5
+/GG 16 MI FF0000FF00FFFF0080D0A6E670E082DE
+/GB 16 MI FF000000FF00FFFF4F61008CD6D1EFB3
+
+% Render an image when no image LUT has been define.
+/DefaultGrey { 
+  { currentfile inarr readhexstring pop } image 
+} BD
+
+% ColorImage - Produce an image by indexing into the Image Lookup Table.
+% There are two versions of this code- one for PostScript that has
+% the colorimage operator and one that doesn't.  If the PostScript doesn't
+% have colorimage, it is assumed that it can only produce black & white,
+% in which the Image LUT is combined to produce a single grey which is
+% then used as the image for the image operator.
+/colorimage where
+  { pop
+    /ColorImage {
+     { currentfile inarr readhexstring pop dup /inarr exch def
+       length 3 mul string /oarr exch def
+        0 1 inarr length 1 sub 
+        { /iindex exch def
+          /oindex iindex 3 mul def
+          oarr oindex IR inarr iindex get get put
+          oarr oindex 1 add IG inarr iindex get get put
+          oarr oindex 2 add IB inarr iindex get get put
+        } for
+        oarr
+      }
+      false 3 colorimage
+    } BD
+  }
+  { /ColorImage {
+      { currentfile inarr readhexstring pop dup /inarr exch def
+        length string /oarr exch def
+        0 1 inarr length 1 sub
+        { /iindex exch def
+          oarr iindex
+          IR inarr iindex get get 0.3 mul
+          IG inarr iindex get get 0.59 mul
+          IB inarr iindex get get 0.11 mul
+          add add round cvi dup 255 gt { pop 255 } if
+          put
+        } for
+        oarr
+      }
+      image
+    } BD
+  } 
+ifelse
+
+% PC: Put Cellarray: width height bitspersample matrix -> -
+/*PCdict 10 dict def
+/PC {
+  *PCdict begin
+  4 -1 roll dup /inarr exch string def 4 1 roll
+  /IR where {pop ColorImage} {DefaultGrey} ifelse
+  end
+} BD
+
+% Define the Hatch (fill area) styles. H1 and H2 are handled internally
+% by PSIKern.  Feel free to define more; there is no limit.
+/H3 <8888888888888888> def
+/H4 <ff000000ff000000> def
+/H5 <8844221188442211> def
+/H6 <1122448811224488> def
+
+% Setup for fill patterns.  This whole section of code is taken almost
+% directly from _PostScript Language: Tutorial and Cookbook_, Adobe Systems,
+% 1986 (the blue book).
+/setuserscreendict 22 dict def
+setuserscreendict begin
+  /tempctm matrix def
+  /temprot matrix def
+  /tempscale matrix def
+  
+  /concatprocs
+    { /proc2 exch cvlit def
+      /proc1 exch cvlit def
+      /newproc proc1 length proc2 length add
+        array def
+      newproc 0 proc1 putinterval
+      newproc proc1 length proc2 putinterval
+      newproc cvx
+    } def
+  
+  /resmatrix matrix def
+  /findresolution
+    { 72 0 resmatrix defaultmatrix dtransform
+      /yres exch def /xres exch def
+      xres dup mul yres dup mul add sqrt
+    } def
+  end
+
+/setuserscreen
+  { setuserscreendict begin
+      /spotfunction exch def
+      /screenangle exch def
+      /cellsize exch def
+      
+      /m tempctm currentmatrix def
+      /rm screenangle temprot rotate def
+      /sm cellsize dup tempscale scale def
+      
+      sm rm m m concatmatrix m concatmatrix pop      
+      1 0 m dtransform /y1 exch def /x1 exch def
+      
+      /veclength x1 dup mul y1 dup mul add sqrt def
+      /frequency findresolution veclength div def
+      
+      /newscreenangle y1 x1 atan def
+      
+      m 2 get m 1 get mul m 0 get m 3 get mul sub
+        0 gt
+        { {neg} /spotfunction load concatprocs
+            /spotfunction exch def
+        } if
+        
+      frequency newscreenangle /spotfunction load
+        setscreen
+    end
+  } def
+  
+/setpatterndict 18 dict def
+setpatterndict begin
+  /bitison
+    { /ybit exch def /xbit exch def
+      /bytevalue bstring ybit bwidth mul xbit 8 idiv
+        add get def
+      
+      /mask 1 7 xbit 8 mod sub bitshift def
+      bytevalue mask and 0 ne
+    } def
+  end
+  
+/bitpatternspotfunction
+  { setpatterndict begin
+    /y exch def /x exch def
+    
+    /xindex x 1 add 2 div bpside mul cvi def
+    /yindex y 1 add 2 div bpside mul cvi def
+    
+    xindex yindex bitison
+      { /onbits onbits 1 add def 1 }
+      { /offbits offbits 1 add def 0 }
+      ifelse
+    end
+  } def
+
+/setpattern
+  { setpatterndict begin
+    /cellsz exch def
+    /angle exch def
+    /bwidth exch def
+    /bpside exch def
+    /bstring exch def
+    
+    /onbits 0 def /offbits 0 def
+    cellsz angle /bitpatternspotfunction load
+      setuserscreen
+    { } settransfer
+    offbits offbits onbits add div setgray
+  end
+} def
+
+% SP: Set Pattern: pattern -> -
+/SP { 8 1 0 MAXNDC 100 div setpattern } BD
+
+% FI: Fill with Pattern: - -> -
+/FI { fill grestore } BD
+
+% Set the transformation matrix.
+/SS {
+  PointperMeter dup scale
+  PageOffXMeter
+  PortraitMode not
+    { PageSizeYMeter add }
+  if 
+  PageOffYMeter translate
+  PortraitMode 
+    { PortraitRotation rotate }
+    { LandScapeRotation rotate}
+  ifelse
+  PageSizeXMeter MAXNDC div PageSizeYMeter MAXNDC div scale
+  1 setlinejoin 0 setlinecap
+} BD
+
+% Save the current state of VM
+S
+/GR 16 MI FF00FF000000FFFFA02DFFEFD83FEDF4 /GG 16 MI 
+FF0000FF00FFFF00214FA5E570E082DD /GB 16 MI 
+FF000000FFFF00FFEF4F008CD6D1EDB2 SS S 
+%%EndProlog 
+%PSKOpenWorkStation 
+%%Page: 1 1 
+NP 
+9 SC GS M @@@@ D ??@@ D ???? D @@?? FI 0 SC GS M GLIY D xrIY D xr|N 
+D GL|N FI LPS LT 7 SW 4 SC M GLIY D JCIY D JCJG D JCIY D L{IY D L{JG 
+D L{IY D OtIY D OtJG D OtIY D RlIY D RlJG D RlIY D UeIY D UeJu D UeIY 
+SR 0 PA 81.85751 108.2269 FS 3 PH 1 HJ 6 VJ yes VT M UeH] MK BF (500) 
+WS M UeIY D X]IY D X]JG D X]IY D [VIY D [VJG D [VIY D ^NIY D ^NJG 
+D ^NIY D aGIY D aGJG D aGIY D c?IY D c?Ju D c?IY SR M c?H] MK BF 
+(1000) WS M c?IY D fxIY D fxJG D fxIY D ipIY D ipJG D ipIY D liIY 
+D liJG D liIY D oaIY D oaJG D oaIY D rZIY D rZJu D rZIY SR M rZH] MK 
+BF (1500) WS M rZIY D uRIY D uRJG D uRIY D xKIY D xKJG D xKIY D xrIY 
+SR 
+M xrIY D xrIg D xNIg D xrIg D xrL? D xNL? D xrL? D xrPW D wiPW D xrPW 
+D xrSp D xNSp D xrSp D xrWH D xNWH D xrWH D xrZ` D xNZ` D xrZ` D xr]x 
+D xN]x D xr]x D xraP D wiaP D xraP D xrdi D xNdi D xrdi D xrhA D xNhA 
+D xrhA D xrkY D xNkY D xrkY D xrnq D xNnq D xrnq D xrrI D wirI D xrrI 
+D xrub D xNub D xrub D xrxz D xNxz D xrxz D xr|N SR 
+M GLIY D GLIg D GpIg D GLIg D GLL? D GpL? D GLL? D GLPW D HTPW D GLPW 
+SR 3 HJ 1 VJ M FsPW MK BF (1) WS M GLPW D GLSp D GpSp D GLSp D GLWH 
+D GpWH D GLWH D GLZ` D GpZ` D GLZ` D GL]x D Gp]x D GL]x D GLaP D HTaP 
+D GLaP SR M FsaP MK BF (1.01) WS M GLaP D GLdi D Gpdi D GLdi D GLhA 
+D GphA D GLhA D GLkY D GpkY D GLkY D GLnq D Gpnq D GLnq D GLrI D HTrI 
+D GLrI SR M FsrJ MK BF (1.02) WS M GLrI D GLub D Gpub D GLub D GLxz 
+D Gpxz D GLxz D GL|N SR 
+M GL|N D JC|N D JC{` D JC|N D L{|N D L{{` D L{|N D Ot|N D Ot{` D Ot|N 
+D Rl|N D Rl{` D Rl|N D Ue|N D Uezr D Ue|N D X]|N D X]{` D X]|N D [V|N 
+D [V{` D [V|N D ^N|N D ^N{` D ^N|N D aG|N D aG{` D aG|N D c?|N D c?zr 
+D c?|N D fx|N D fx{` D fx|N D ip|N D ip{` D ip|N D li|N D li{` D li|N 
+D oa|N D oa{` D oa|N D rZ|N D rZzr D rZ|N D uR|N D uR{` D uR|N D xK|N 
+D xK{` D xK|N D xr|N SR 
+1 HJ 8 SC M _?Dl MK BF (Line \(pixels\)) WS 7 VJ M _?}J MK BF 
+(response: columns 100 to 400) WS 
+3 SW 1 SC M GLL~ D GNPR D GPPq D GRSD D GTSL D GUTY D GWPr D GYOT 
+D G[Oo D G]O[ D G_Ot D G`OK D GbN@ D GdN\ D GfNL D GhN\ D GjMF D GkNh 
+D GmOK D GoPG D GqPc D GsQg D GuSv D GwSc D GxSW D GzT{ D G|Tz D G~TP 
+D H@SC D HBRX D HCQA D HEOw D HGN~ D HIMe D HKO@ D HMNJ D HOM| D HPNf 
+D HRMK D HTN^ D HVMg D HXMq D HZNh D H[Nr D H]Nz D H_O| D HaOM D HcPF 
+D HeO~ D HgPT D HhOv D HjPY D HlQ[ D HnRy D HpQK D HrQt D HsQt D HuQ} 
+D HwRW D HyQi D H{RC D H}Q} D H?S@ D I@QR D IBQM D IDP[ D IFRT D IHRw 
+D IIQm D IKQe D IMPd D IOPx D IQQS D ISPI D IUOW D IVOu D IXO` D IZOu 
+D I\O@ D I^N| D I`NJ D IaOm D IcNo D IeNP D IgOF D IiOW D IkOQ D ImNN 
+D InNK D IpNm D IrNz D ItO} D IvNU D IxOI D IyPU D I{On D I}O~ D I?OC 
+D JAOS D JCQ@ D JERE D JFPp D JHOp D JJOl D JLPk D JNQa D JPQW D JQQY 
+D JS|N D JUSC D JWQx D JYRV D J[Rf D J]Q| D J^Qc D J`Qm D JbQc D JdQZ 
+D JfRK D JhRB D JiRz D JkRJ D JmQH D JoQy D JqQd D JsQb D JuQn D JvRC 
+D JxPs D JzPM D J|Nu D J~Oe D K@PI D KAOI D KCPb D KEO` D KGOU D KINR 
+D KKOy D KMM| D KNLB D KPNY D KRNe D KTN| D KVNO D KXMR D KYM^ D K[Mc 
+D K]Ms D K_Mn D KaK@ D KcJ` D KeNL D KfNf D KhNN D KjOP D KlOa D KnOh 
+D KpP^ D KqO} D KsPB D KuPq D KwPr D KyPs D K{RK D K}R\ D K~SR D L@Sw 
+D LBS| D LDSQ D LFSw D LHSj D LIU^ D LKVp D LMVd D LOVM D LQVf D LSUy 
+D LTVW D LVU{ D LXV@ D LZU_ D L\T| D L^Tg D L`TD D LaSK D LcQD D LeRC 
+D LgRd D LiRp D LkRO D LlQ^ D LnPn D LpPZ D LrQK D LtPb D LvO? D LxOr 
+D LyOk D L{Nz D L}ON D L?NV D MANG D MCNQ D MDOq D MFO` D MHOi D MJOP 
+D MLOj D MNNq D MPO_ D MQO` D MSOd D MUOd D MWPi D MYNp D M[Oa D M\PD 
+D M^Oc D M`Oi D MbN? D MdPV D MfPG D MhPj D MiPG D MkOA D MmOl D MoPS 
+D MqQb D MsP] D MtPk D MvPU D MxPT D MzPP D M|PV D M~OL D N@Oy D NAQd 
+D NCPr D NEPq D NGPI D NIO{ D NKP[ D NLQ@ D NNP} D NPQH D NRQK D NTP^ 
+D NVP` D NXQI D NYQZ D N[QL D N]P} D N_Pl D NaQi D NcQD D NdRL D NfQP 
+D NhPW D NjQx D NlQ^ D NnQn D NpQH D NqPl D NsQD D NuPr D NwQA D NyQM 
+D N{O| D N|QL D N~QF D O@Pq D OBOJ D ODO\ D OFO| D OHPO D OIPt D OKP[ 
+D OMON D OOOO D OQPT D OSPR D OTPO D OVNi D OXP[ D OZOz D O\Pe D O^OG 
+D O`N{ D OaOs D OcO~ D OePH D OgPM D OiPG D OkO} D OlOy D OnOT D OpOn 
+D OrPf D OtQ^ D OvPK D OwPF D OyPC D O{PE D O}On D O?Oe D PAOL D PCOq 
+D PDPj D PFQ@ D PHPU D PJOu D PLO{ D PNP_ D POPm D PQPW D PSKb D PUOY 
+D PWPm D PYPt D P[OE D P\PA D P^QI D P`P? D PbP~ D PdQT D PfP@ D PgQ@ 
+D PiQe D PkPV D PmPC D PoPh D PqPz D PsPv D PtPT D PvOi D PxPA D PzO{ 
+D P|Po D P~QT D P?Ps D QAQI D QCPO D QEPY D QGN? D QIO^ D QKQU D QLP^ 
+D QNPC D QPOz D QRPs D QTQo D QVPr D QWO{ D QYOf D Q[Qd D Q]QP D Q_PK 
+D QaNW D QcOR D QdPm D QfQW D QhOf D QjOd D Ql`N D QnPG D QoPT D QqQ] 
+D QsQE D QuP` D QwQ@ D QyOq D Q{PG D Q|QL D Q~QX D R@QR D RBQF D RDQk 
+D RFPk D RGPk D RIPJ D RKP` D RMQE D RORO D RQQQ D RRPQ D RTPu D RVPU 
+D RXPn D RZPf D R\Pf D R]Py D R_P| D RaP{ D RcPI D RePR D RgOb D RiQI 
+D RjQG D RlPc D RnPs D RpPJ D RrOb D RtNu D RuOd D RwOy D RyPX D R{PQ 
+D R}Oo D R?Ny D SANj D SBNT D SDOR D SFO] D SHP@ D SJO` D SLO^ D SMOe 
+D SOOO D SQNn D SSNZ D SUOS D SWPB D SYOb D SZOe D S\OU D S^OX D S`Oe 
+D SbOa D SdPi D SeOh D SgPK D SiPW D SkOw D SmPX D SoPF D SqQq D SrPu 
+D StPa D SvQg D SxPj D SzOl D S|LB D S}JH D S?Jb D TAOU D TCQD D TEQa 
+D TGQT D TIQV D TJQh D TLQi D TNRH D TPQl D TRR[ D TTRH D TURa D TWQj 
+D TYPQ D T[Qv D T]RD D T_RI D T`QH D TbQN D TdQJ D TfPX D ThQu D TjQZ 
+D TlPn D TmQD D ToQU D TqPm D TsPI D TuPH D TwPe D TxP` D TzPr D T|O? 
+D T~Q^ D U@PV D UBPN D UDNv D UEO\ D UGPx D UIPW D UKPE D UMOo D UOOW 
+D UPO{ D URO} D UTPo D UVNo D UXO` D UZPY D U\PU D U]Pr D U_Nk D UaOo 
+D UcOn D UePZ D UgOs D UhOf SR D UjO} D UlPv D UnNy D UpOy D UrOr 
+D UtOO D UuOW D UwOx D UyOe D U{Os D U}Nq D U?N[ D V@Nm D VBMz D VDPP 
+D VFPm D VHOM D VJO[ D VLOK D VMOZ D VOOh D VQOk D VSPh D VUPh D VWOz 
+D VXPP D VZOb D V\OQ D V^P[ D V`Pj D VbP} D VdPa D VePK D VgPn D ViOx 
+D VkPE D VmPB D VoPj D VpPs D VrQx D VtQw D VvPL D VxPs D VzQn D V|QX 
+D V}Q| D V?QI D WAQd D WCPm D WEP? D WGQn D WHQi D WJRC D WLRo D WNQv 
+D WPQN D WRQj D WTQJ D WUQm D WWQE D WYPl D W[Q| D W]RV D W_Qf D W`Q@ 
+D WbPb D WdQl D WfPn D WhQo D WjQX D WkPx D WmQQ D WoQK D WqOp D WsPM 
+D WuOZ D WwP[ D WxPy D WzPf D W|Po D W~OU D X@Om D XBPU D XCOf D XEOq 
+D XGNp D XIP\ D XKPX D XMPE D XOOL D XPOA D XRPC D XTOC D XVN| D XXNc 
+D XZO[ D X[Oe D X]Mz D X_Nc D XaN{ D XcOF D XeOS D XgOR D XhN{ D XjOh 
+D XlOe D XnOS D XpNv D XrO| D XsPN D XuPE D XwOp D XyNe D X{Nf D X}Oj 
+D X?ON D Y@PJ D YBOB D YDit D YFQr D YHPG D YJQa D YKQw D YMQH D YOQ] 
+D YQPf D YSQp D YUPo D YWQ{ D YXQr D YZRA D Y\Qb D Y^Pv D Y`QY D YbN] 
+D YcKt D YeL@ D YgK| D YiKQ D YkL~ D YmPA D YoPS D YpQ{ D YrRL D YtQ{ 
+D YvQM D YxQ\ D YzQv D Y{P_ D Y}Oz D Y?Ox D ZAQW D ZCQY D ZEP{ D ZGPT 
+D ZHPG D ZJPd D ZLPR D ZNPf D ZPPO D ZRP} D ZSPX D ZUPf D ZWPK D ZYOl 
+D Z[Ol D Z]Pg D Z_Pz D Z`Po D ZbOx D ZdP_ D ZfPa D ZhPy D ZjO? D ZkOo 
+D ZmPq D ZoPy D ZqPf D ZsPd D ZuPH D ZwOv D ZxOy D ZzPo D Z|Ps D Z~QR 
+D [@PK D [BPI D [CP@ D [EPE D [GOg D [IPf D [KPl D [MPh D [NP` D [PP[ 
+D [RPH D [TP@ D [VPZ D [XOn D [ZPu D [[Pt D []Ox D [_L? D [aIY D [cJp 
+D [eMi D [fPJ D [hOf D [jPk D [lP~ D [nPZ D [pOB D [qOM D [sP^ D [uPl 
+D [wP~ D [yOr D [{QH D [}PX D [~PM D \@Pd D \BPy D \DPW D \FPl D \HPx 
+D \IPJ D \KO\ D \MM| D \OPQ D \QPB D \SPU D \TPo D \VPu D \XPn D \ZPV 
+D \\Oe D \^PI D \`P{ D \aPg D \cPi D \ePY D \gOq D \iPd D \kPT D \lPM 
+D \nOo D \pO] D \rPj D \tPq D \vPA D \xN? D \yO[ D \{Op D \}Ow D \?O] 
+D ]APM D ]CPC D ]DOb D ]FO_ D ]HPW D ]JPc D ]LPd D ]NP_ D ]PPK D ]QOn 
+D ]SPL D ]UPk D ]WPx D ]YOy D ][P{ D ]\Q{ D ]^QG D ]`P_ D ]bOr D ]dPR 
+D ]fQL D ]hPt D ]iQN D ]kPt D ]mP_ D ]oQK D ]qP~ D ]sPf D ]tO^ D ]vQN 
+D ]xQC D ]zQX D ]|Q\ D ]~Py D ^@PN D ^APz D ^CQi D ^EQO D ^GQF D ^IQR 
+D ^KQR D ^LQ| D ^NPq D ^PPd D ^RPm D ^TQk D ^VP~ D ^XQx D ^YQh D ^[Qw 
+D ^]Pp D ^_QB D ^aQ^ D ^cQe D ^dRG D ^fQ` D ^hQK D ^jQm D ^lPm D ^nPk 
+D ^pPA D ^qPW D ^sPd D ^uPb D ^wPY D ^yOV D ^{Np D ^|Nm D ^~Ou D _@Oz 
+D _BOR D _DN] D _FOT D _HOP D _INj D _KM[ D _MM{ D _OMz D _QOy D _SNw 
+D _TNQ D _VOI D _XNT D _ZN] D _\Na D _^N] D _`No D _aNb D _cOs D _eO\ 
+D _gNN D _iMY D _kOp D _lN{ D _nNl D _pNu D _rO` D _tNu D _vN_ D _wNk 
+D _yPX D _{Oz D _}Pv D _?PN D `APT D `CPW D `DQC D `FP| D `HPc D `JOG 
+D `LR\ D `NQx D `OQO D `QO| D `SPS D `UQ? D `WRq D `YQ^ D `[PC D `\]U 
+D `^Rc D ``RF D `bRs D `dR^ D `fQ` D `gQT D `iQb D `kQb D `mQi D `oQk 
+D `qRS D `sRB D `tPy D `vQm D `xQI D `zQC D `|Ql D `~RN D `?RM D aAQQ 
+D aCQI D aEP| D aGPd D aIQX D aKQM D aLQh D aNQN D aPQU D aRQg D aTPP 
+D aVQS D aWPy D aYQB D a[QY D a]Q` D a_Pu D aaPx D acPt D adPk D afPW 
+D ahPN D ajPj D alPe D anP] D aoP^ D aqOE D asO[ D auOY D awPL D ayO] 
+D a{Nu D a|OI D a~OG D b@N} D bBNJ D bDN@ D bFOO D bGNw D bIN| D bKNt 
+D bMNH D bOMa D bQML D bSND D bTNW D bVOK D bXNi D bZNi D b\Mm D b^Mn 
+D b_NG D baN` D bcNz D beOH D bgN} D biNu D bkNw D blOa D bnN{ D bpO_ 
+D brPV D btP\ D bvOs D bwPi D byPb D b{Pl D b}Px D b?Qj D cAPT D cBPs 
+D cDQ^ D cFQR D cHP\ D cJQR D cLP` D cNRU D cOQt D cQPv D cSRA D cURA 
+D cWQZ D cYQQ D cZQh D c\QR D c^QW D c`Q_ D cbQZ D cdPp D cfQG D cgQ] 
+D ciQp D ckQI D cmQ} D coQs D cqP? D crPq D ctPO D cvP~ D cxQ_ D czQv 
+D c|Pk D c~Pz D c?Pp D dAR@ D dCQK D dEP~ SR D dGPU D dIPB D dJQ? 
+D dLPy D dNQZ D dPPY D dRPM D dTPH D dVPT D dWQF D dYPQ D d[Pb D d]Pc 
+D d_PB D daPC D dbPF D ddPH D dfPl D dhPX D djPA SR M djPA D dlPr 
+D dmPi D doOr D dqOb D dsOe D duP] D dwPf D dxOr D dzOo D d|Nk D d~PZ 
+D e@PH D eBOM D eDOs D eEPK D eGP^ D eIOz D eKO_ D eMNo D eOOP D ePP^ 
+D eRPR D eTO] D eVPH D eXO] D eZPR D e\Oa D e]OS D e_Od D eaPX D ecPF 
+D eeOz D egPd D ehOV D ejON D elPh D enPd D epOn D erP{ D etO} D euOq 
+D ewOs D eyO^ D e{PY D e}PS D e?O} D f@O{ D fBPD D fDPs D fFOz D fHO\ 
+D fJO} D fLPL D fMQO D fOPW D fQPc D fSOl D fUPq D fWOu D fXPg D fZQC 
+D f\PR D f^PP D f`Pn D fbPl D fdOz D fePF D fgP{ D fiQd D fkQL D fmPd 
+D foPH D fpO| D frQ_ D ftPx D fvPc D fxPO D fzQy D f|Ps D f}PT D f?Ph 
+D gAPp D gCQN D gEQC D gGPr D gHP| D gJQf D gLQd D gNOr D gPP~ D gRQG 
+D gTQH D gUP| D gWO` D gYOz D g[Qa D g]PT D g_PV D g`Oa D gbPx D gdRH 
+D gfQb D ghP\ D gjOH D gkOf D gmQD D goP^ D gqP[ D gsNo D guiq D gwR] 
+D gxPp D gzP? D g|P] D g~P` D h@OZ D hBOm D hCOY D hEOh D hGP^ D hIPo 
+D hKPh D hMPv D hOPJ D hPPT D hRPn D hTO| D hVPx D hXP~ D hZP} D h[PV 
+D h]Ox D h_Pr D haPd D hcPi D heQZ D hgPV D hhPS D hjO] D hlPF D hnOY 
+D hpO_ D hrPY D hsPn D huQA D hwPb D hyO\ D h{PO D h}Oo D h?O[ D i@OL 
+D iBOQ D iDOm D iFO? D iHPe D iJOL D iKN} D iMO_ D iOO\ D iQPE D iSPD 
+D iUP[ D iWOy D iXOV D iZOq D i\Oa D i^Ox D i`PM D ibP^ D icQB D iePH 
+D igOm D iiOW D ikO~ D imQ@ D ioPu D ipPf D irPe D itPZ D ivOt D ixOl 
+D izPy D i{Px D i}Pp D i?Qf D jAQO D jCPW D jEPA D jGOQ D jHPu D jJQV 
+D jLQW D jNP[ D jPPS D jRPj D jSPS D jUPj D jWP` D jYOi D j[Pi D j]QW 
+D j_Ps D j`P^ D jbPr D jdP] D jfPw D jhQK D jjPx D jkQH D jmPf D joP~ 
+D jqPs D jsO? D juQN D jwQe D jxQt D jzPz D j|PE D j~Pt D k@Pm D kBQN 
+D kCQF D kEPt D kGQ\ D kIPn D kKPe D kMO| D kNPQ D kPPj D kRPM D kTP? 
+D kVPM D kXP\ D kZPC D k[Pf D k]PF D k_OU D kaPf D kcPn D keQr D kfPt 
+D khNz D kjOQ D klOz D knOn D kpPU D krPS D ksOa D kuOd D kwOO D kyO? 
+D k{PK D k}P[ D k~PP D l@OK D lBOt D lDPD D lFO? D lHPL D lJO{ D lKO| 
+D lMP{ D lOP] D lQPY D lSO^ D lUOz D lVPO D lXQm D lZP\ D l\O] D l^Pe 
+D l`QK D lbPg D lcOV D leOP D lgPQ D liQY D lkOu D lmOT D lnMr D lpNX 
+D lrNA D ltO@ D lvOX D lxPj D lzPf D l{Q] D l}Pg D l?PU D mAPN D mCP` 
+D mEP^ D mFQE D mHPL D mJP{ D mLP? D mNPM D mPPN D mRPe D mSQN D mUPp 
+D mWPu D mYQM D m[Pd D m]Pi D m^PP D m`PM D mbP~ D mdPo D mfQv D mhQj 
+D mjP\ D mkOo D mmOt D moQT D mqQ` D msQU D mtPv D mvQD D mxQs D mzQS 
+D m|QK D m~P] D n@Pg D nAQ} D nCQG D nEPy D nGPk D nIPC D nKQd D nLPN 
+D nNPP D nPOg D nRPP D nTQy D nVQM D nXOj D nYPD D n[Oy D n]P\ D n_PM 
+D naPP D ncP} D ndOS D nfNc D nhOI D njPb D nlQB D nnPS D npOx D nqOH 
+D nsPk D nuQQ D nwOH D nyOT D n{NX D n|P| D n~QC D o@Oc D oBNx D oDNX 
+D oFPM D oHO} D oIOl D oKO@ D oM]G D oOQp D oQOv D oSPA D oTPy D oVP\ 
+D oXP^ D oZPP D o\Ot D o^Ou D o`P{ D oaPe D ocPc D oePr D ogPK D oiO~ 
+D okPb D olOo D onPp D opPz D orQY D otPy D ovOk D owO{ D oyPt D o{PB 
+D o}PS D o?P` D pAPg D pCPY D pDQA D pFOw D pHO~ D pJP[ D pLPg D pNPb 
+D pOPQ D pQPF D pSOD D pUMW D pWL^ D pYLJ D p[PY D p\QH D p^Pn D p`PC 
+D pbOp D pdPY D pfQJ D pgQw D piQH D pkPy D pmOx D poPj D pqPl D psPQ 
+D ptO| D pvOE D pxPp D pzP{ D p|Qg D p~PR D p?O? D qAPR D qCQ^ D qEQY 
+D qGQ? D qIPH D qKP] D qLPt D qNPY D qPPR D qRQB D qTQH D qVPp D qWPz 
+D qYQD D q[Pa D q]NB D q_MC D qaQD D qcQH D qdQC D qfPW D qhPX D qjQP 
+D qlPV D qnPZ D qoPJ D qqOZ D qsPQ D quPT D qwOh D qyOe D q{Nm D q|On 
+D q~PR D r@PM D rBPO D rDOP D rFOP D rGOt D rIO\ D rKOm D rMOr D rOPj 
+D rQPR D rSOm D rTOZ D rVO~ D rXPL D rZO[ D r\O\ D r^PB D r_QF D raPX 
+D rcOq D reOG D rgP^ D riPk D rkPq D rlPp D rnOn D rpPq D rrPg D rtQ_ 
+D rvOj D rwOt D ryPc D r{P| D r}QH D r?P~ D sAPY D sBPT D sDPx D sFP\ 
+SR D sHP_ D sJPh D sLQG D sNP? D sOPy D sQPn D sSQJ D sUPq D sWQN 
+D sYQE D sZQA D s\Qq D s^QY D s`PJ D sbP^ D sdQi D sfQr D sgQv D siPO 
+D skO{ D smPs D soQI D sqQ@ D srQA D stPW D svQJ D sxQF D szQC D s|OJ 
+D s~NT D s?PD D tAO~ D tCP] D tEPD D tGOl D tIOT D tJOF D tLNz D tNOF 
+D tPNp D tROw D tTPG D tVOM D tWOY D tYOX D t[Nz D t]OC D t_O_ D taNy 
+D tbOi D tdPV D tfOK D thO\ D tjO~ D tlO} D tnP? D toQG D tqOs D tsQN 
+D tuP{ D twQp D tyRm D tzQR D t|Re D t~SW D u@TL D uBTM D uDTO D uFTT 
+D uGUx D uIUN D uKUI D uMTN D uOT\ D uQTL D uRSl D uTRe D uVR\ D uXRe 
+D uZR_ D u\RR D u^Q\ D u_Py D uaQ@ D ucQa D ueOq D ugOX D uiPF D ujPa 
+D ulPl D unPZ D upOH D urOW D utOl D uvOq D uwNh D uyO` D u{Ol D u}O\ 
+D u?Nf D vAOM D vBOl D vDPT D vFOj D vHOD D vJNy D vLPk D vNPW D vOQJ 
+D vQNl D vSPA D vUQe D vWQR D vYPL D vZNc D v\Of D v^Oo D v`Qa D vbO{ 
+D vdPS D veeC D vgP| D viQ_ D vkPe D vmQk D voQr D vqQh D vrQ^ D vtQF 
+D vvQm D vxQE D vzQ[ D v|QO D v}QN D v?PV D wAPF D wCPE D wEOu D wGPw 
+D wHQh D wJPe D wLM} D wNO@ D wPOm D wROz D wTOE D wUPP D wWPg D wYPW 
+D w[PN D w]Oq D w_PD D w`Nb D wbPX D wdPf D wfP] D whPO D wjPc D wkPM 
+D wmPQ D woOO D wqOx D wsPq D wuPj D wwQS D wxPa D wzPl D w|PS D w~Pp 
+D x@QI D xBQg D xCPt D xEQO D xGP] D xIPT D xKPT D xMPu D xOOv D xPPq 
+D xRQ@ D xTP[ D xVNz D xXO_ D xZOh D x[Oo D x]PZ D x_Ot D xaPq D xcPH 
+D xeOF D xgPU D xhQT D xjPu D xlQi D xnQj D xpP? D xrNM SR 
+%PSKCloseWorkStation 
+%PSKOpenWorkStation 
+CL 
+%%Trailer 
+R R 
+%DocumentFonts: Times-Bold Times-Italic Symbol Times-Roman
+%%Pages: 1 
+%%EOF 

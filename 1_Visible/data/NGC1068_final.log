@@ -1,0 +1,704 @@
+# Feb 15 17:01 NGC1068_final_skysub[159:161,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.494  125.3627   147.231    -1.174   140.517    0.9843        0.
+# Feb 15 17:01 NGC1068_final_skysub[160:162,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.418  118.2761   172.153    -1.456   164.119    0.9854        0.
+# Feb 15 17:01 NGC1068_final_skysub[161:163,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4877.082 -147.9061   17344.6     INDEF   290.126     56.16        0.
+# Feb 15 17:01 NGC1068_final_skysub[162:164,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.401  127.6863    131.72    -1.032   161.441    0.7665        0.
+# Feb 15 17:01 NGC1068_final_skysub[163:165,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   4881.67 -536712.4 3.1951E10     INDEF   536827.    55914.        0.
+# Feb 15 17:01 NGC1068_final_skysub[164:166,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.747 -18330.95 12855209.     INDEF   18485.8     653.3        0.
+# Feb 15 17:01 NGC1068_final_skysub[165:167,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5005.659  7585.192 -5.3182E7     7011.  -7512.16     6651.        0.
+# Feb 15 17:01 NGC1068_final_skysub[166:168,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4833.382  8800.299 -1.1780E7     1339.  -8598.45     1287.        0.
+# Feb 15 17:01 NGC1068_final_skysub[167:169,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4979.931  263.0577  -25947.1     98.64  -218.742     111.4        0.
+# Feb 15 17:01 NGC1068_final_skysub[168:170,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4876.705  171.6342  -264.836     1.543  -41.1547     6.045        0.
+# Feb 15 17:01 NGC1068_final_skysub[169:171,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4888.417  336.3026  -8051.96     23.94  -180.812     41.84        0.
+# Feb 15 17:01 NGC1068_final_skysub[170:172,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4889.199  498.1752  -17420.8     34.97  -341.286     47.95        0.
+# Feb 15 17:01 NGC1068_final_skysub[171:173,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   1955.61  2148.375 4.76473E8  -221783.   473796.     944.7        0.
+# Feb 15 17:01 NGC1068_final_skysub[172:174,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.346  138.2636   183.723    -1.329   244.765    0.7051        0.
+# Feb 15 17:01 NGC1068_final_skysub[173:175,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.403  131.2558   251.004    -1.912   281.528    0.8376        0.
+# Feb 15 17:01 NGC1068_final_skysub[174:176,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.417  135.9113   305.323    -2.246   316.325    0.9068        0.
+# Feb 15 17:01 NGC1068_final_skysub[175:177,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4874.301 -186.7422   14702.7     INDEF   328.553     42.04        0.
+# Feb 15 17:01 NGC1068_final_skysub[176:178,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.502  110.9573   442.289    -3.986    374.43      1.11        0.
+# Feb 15 17:01 NGC1068_final_skysub[177:179,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4876.449 -159.2325   11068.2     INDEF   339.824      30.6        0.
+# Feb 15 17:01 NGC1068_final_skysub[178:180,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   4876.57 -165.8579    12550.     INDEF   351.106     33.58        0.
+# Feb 15 17:01 NGC1068_final_skysub[179:181,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4874.624   -273.32   18014.6     INDEF   463.631      36.5        0.
+# Feb 15 17:01 NGC1068_final_skysub[180:182,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4871.218 -357.0756   22395.3     INDEF   521.382     40.35        0.
+# Feb 15 17:01 NGC1068_final_skysub[181:183,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4872.092 -264.2568   15115.5     INDEF   446.715     31.79        0.
+# Feb 15 17:01 NGC1068_final_skysub[182:184,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   4873.35 -192.4429   13163.7     INDEF   386.407       32.        0.
+# Feb 15 17:01 NGC1068_final_skysub[183:185,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4875.347 -39.74125    6971.5     INDEF   258.245     25.36        0.
+# Feb 15 17:01 NGC1068_final_skysub[184:186,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4878.715  43.26757   4837.79    -111.8   168.264     27.01        0.
+# Feb 15 17:01 NGC1068_final_skysub[185:187,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4862.062  101.5051   6992.72    -68.89   100.743     65.21        0.
+# Feb 15 17:01 NGC1068_final_skysub[186:188,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.605  194.2502   628.839    -3.237   458.409     1.289        0.
+# Feb 15 17:01 NGC1068_final_skysub[187:189,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.613   200.803   639.778    -3.186   551.073     1.091        0.
+# Feb 15 17:01 NGC1068_final_skysub[188:190,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   4876.86  262.2256   -635.07     2.422  -112.488     5.304        0.
+# Feb 15 17:01 NGC1068_final_skysub[189:191,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4892.704  77.68576   504.997    -6.501   156.937     3.023        0.
+# Feb 15 17:01 NGC1068_final_skysub[190:192,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.677  170.7376   630.048     -3.69   510.198      1.16        0.
+# Feb 15 17:01 NGC1068_final_skysub[191:193,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   4882.66  157.5259   639.651    -4.061   506.607     1.186        0.
+# Feb 15 17:01 NGC1068_final_skysub[192:194,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.629  164.5292   655.916    -3.987   514.652     1.197        0.
+# Feb 15 17:01 NGC1068_final_skysub[193:195,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.621  154.7261   821.507    -5.309   597.307     1.292        0.
+# Feb 15 17:01 NGC1068_final_skysub[194:196,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.575  157.8556    928.61    -5.883   586.576     1.487        0.
+# Feb 15 17:01 NGC1068_final_skysub[195:197,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.521  149.7065   1072.68    -7.165   584.851     1.723        0.
+# Feb 15 17:01 NGC1068_final_skysub[196:198,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   4882.43  163.3534   1177.02    -7.205   583.557     1.895        0.
+# Feb 15 17:01 NGC1068_final_skysub[197:199,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.329  162.6246   1321.89    -8.128   662.217     1.875        0.
+# Feb 15 17:01 NGC1068_final_skysub[198:200,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.266  167.3432   1399.93    -8.366   744.718     1.766        0.
+# Feb 15 17:01 NGC1068_final_skysub[199:201,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.116  167.4931     1550.    -9.254   827.103     1.761        0.
+# Feb 15 17:01 NGC1068_final_skysub[200:202,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.971   175.143   1834.89    -10.48   1002.66     1.719        0.
+# Feb 15 17:01 NGC1068_final_skysub[201:203,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+    4881.8  197.6851   1995.38    -10.09   1201.05     1.561        0.
+# Feb 15 17:01 NGC1068_final_skysub[202:204,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.719  192.4839   2155.85     -11.2   1401.64     1.445        0.
+# Feb 15 17:01 NGC1068_final_skysub[203:205,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.682  165.0605   2190.37    -13.27   1326.26     1.552        0.
+# Feb 15 17:01 NGC1068_final_skysub[204:206,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   4881.63  177.0145   2024.63    -11.44   1374.22     1.384        0.
+# Feb 15 17:01 NGC1068_final_skysub[205:207,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.646  139.7784   1859.83    -13.31    991.15     1.763        0.
+# Feb 15 17:01 NGC1068_final_skysub[206:208,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.684  158.8764   1397.56    -8.796   810.118     1.621        0.
+# Feb 15 17:01 NGC1068_final_skysub[207:209,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.745  150.1515   1052.28    -7.008   614.044      1.61        0.
+# Feb 15 17:01 NGC1068_final_skysub[208:210,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   4881.79   152.861    906.05    -5.927   571.106      1.49        0.
+# Feb 15 17:01 NGC1068_final_skysub[209:211,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.786  124.1641   886.247    -7.138   530.106     1.571        0.
+# Feb 15 17:01 NGC1068_final_skysub[210:212,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   4881.88  140.1863   900.326    -6.422   566.242     1.494        0.
+# Feb 15 17:01 NGC1068_final_skysub[211:213,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.879  147.8527   1010.52    -6.835   643.075     1.476        0.
+# Feb 15 17:01 NGC1068_final_skysub[212:214,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.858  184.9528    1264.3    -6.836   767.056     1.548        0.
+# Feb 15 17:01 NGC1068_final_skysub[213:215,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.808  207.3417   1558.03    -7.514   952.153     1.537        0.
+# Feb 15 17:01 NGC1068_final_skysub[214:216,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.814  250.9224    1806.7      -7.2   1113.86     1.524        0.
+# Feb 15 17:01 NGC1068_final_skysub[215:217,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.792  293.2164   2097.36    -7.153   1312.06     1.502        0.
+# Feb 15 17:01 NGC1068_final_skysub[216:218,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.793  347.6911   2339.24    -6.728   1505.99     1.459        0.
+# Feb 15 17:01 NGC1068_final_skysub[217:219,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.786  382.2742    2598.8    -6.798   1682.57     1.451        0.
+# Feb 15 17:01 NGC1068_final_skysub[218:220,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.813  418.5926   2876.56    -6.872   1875.95     1.441        0.
+# Feb 15 17:01 NGC1068_final_skysub[219:221,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.865  439.0319   3146.38    -7.167     1956.     1.511        0.
+# Feb 15 17:01 NGC1068_final_skysub[220:222,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.963  456.3671   3608.97    -7.908   2254.86     1.504        0.
+# Feb 15 17:01 NGC1068_final_skysub[221:223,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.085  471.8389   4155.24    -8.806   2598.78     1.502        0.
+# Feb 15 17:01 NGC1068_final_skysub[222:224,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.138  478.4244   4709.74    -9.844   2898.16     1.527        0.
+# Feb 15 17:01 NGC1068_final_skysub[223:225,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.198  488.1768   5355.25    -10.97   3321.25     1.515        0.
+# Feb 15 17:01 NGC1068_final_skysub[224:226,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.187  496.7368   5999.18    -12.08    3630.5     1.552        0.
+# Feb 15 17:01 NGC1068_final_skysub[225:227,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.169   504.732   6749.17    -13.37   4074.92     1.556        0.
+# Feb 15 17:01 NGC1068_final_skysub[226:228,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.118  511.5785   7647.06    -14.95   4270.98     1.682        0.
+# Feb 15 17:01 NGC1068_final_skysub[227:229,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.091  526.3819   8492.26    -16.13   4641.62     1.719        0.
+# Feb 15 17:01 NGC1068_final_skysub[228:230,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.077   541.426   9610.03    -17.75   5085.41     1.775        0.
+# Feb 15 17:01 NGC1068_final_skysub[229:231,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.104  568.1276    10715.    -18.86   5646.29     1.783        0.
+# Feb 15 17:01 NGC1068_final_skysub[230:232,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.148  590.7335   11316.5    -19.16   5962.02     1.783        0.
+# Feb 15 17:01 NGC1068_final_skysub[231:233,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.163  638.1991   11216.2    -17.57   5814.05     1.812        0.
+# Feb 15 17:01 NGC1068_final_skysub[232:234,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.143  714.6711   10485.9    -14.67   5408.44     1.821        0.
+# Feb 15 17:01 NGC1068_final_skysub[233:235,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.114   813.088   9833.69    -12.09   4899.29     1.886        0.
+# Feb 15 17:01 NGC1068_final_skysub[234:236,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.095  930.4922   9292.56    -9.987   4484.58     1.947        0.
+# Feb 15 17:01 NGC1068_final_skysub[235:237,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.058  1052.391    8778.6    -8.342   4140.14     1.992        0.
+# Feb 15 17:01 NGC1068_final_skysub[236:238,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.007  1153.568   8511.65    -7.379   3986.72     2.006        0.
+# Feb 15 17:01 NGC1068_final_skysub[237:239,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.958  1218.577    8278.8    -6.794   3776.61     2.059        0.
+# Feb 15 17:01 NGC1068_final_skysub[238:240,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.899  1227.997   8371.78    -6.817   3680.24     2.137        0.
+# Feb 15 17:01 NGC1068_final_skysub[239:241,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.792  1220.277   9033.24    -7.403   4081.46     2.079        0.
+# Feb 15 17:01 NGC1068_final_skysub[240:242,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.706   1201.39   10017.3    -8.338   5078.53     1.853        0.
+# Feb 15 17:01 NGC1068_final_skysub[241:243,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.686   1185.25   11626.1    -9.809   6950.74     1.571        0.
+# Feb 15 17:01 NGC1068_final_skysub[242:244,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.684  1164.375   12313.7    -10.58   8186.12     1.413        0.
+# Feb 15 17:01 NGC1068_final_skysub[243:245,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.687  1144.076   12120.8    -10.59   8649.23     1.317        0.
+# Feb 15 17:01 NGC1068_final_skysub[244:246,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.675  1115.318   10539.2    -9.449   7439.27     1.331        0.
+# Feb 15 17:01 NGC1068_final_skysub[245:247,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   4881.63  1062.523   8883.69    -8.361   6143.61     1.358        0.
+# Feb 15 17:01 NGC1068_final_skysub[246:248,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.588   983.356   7589.07    -7.718   5034.14     1.416        0.
+# Feb 15 17:01 NGC1068_final_skysub[247:249,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   4881.53  889.5181   6415.37    -7.212    4167.4     1.446        0.
+# Feb 15 17:01 NGC1068_final_skysub[248:250,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.473  781.4407   5443.19    -6.966   3254.08     1.571        0.
+# Feb 15 17:01 NGC1068_final_skysub[249:251,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.354  671.0107    4637.3    -6.911   2458.74     1.772        0.
+# Feb 15 17:01 NGC1068_final_skysub[250:252,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.278  598.6639   4122.62    -6.886   2032.76     1.905        0.
+# Feb 15 17:01 NGC1068_final_skysub[251:253,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.225   607.316   3407.51    -5.611   1707.52     1.875        0.
+# Feb 15 17:01 NGC1068_final_skysub[252:254,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.147  605.9416   3087.28    -5.095   1439.28     2.015        0.
+# Feb 15 17:01 NGC1068_final_skysub[253:255,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.064  622.6852   2607.02    -4.187   1183.53     2.069        0.
+# Feb 15 17:01 NGC1068_final_skysub[254:256,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.024  636.2617   2263.85    -3.558   940.648     2.261        0.
+# Feb 15 17:01 NGC1068_final_skysub[255:257,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4880.925  642.3552   1930.34    -3.005   747.572     2.426        0.
+# Feb 15 17:01 NGC1068_final_skysub[256:258,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4880.699  647.8057   1701.84    -2.627   582.478     2.745        0.
+# Feb 15 17:01 NGC1068_final_skysub[257:259,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4880.453  651.3541    1532.2    -2.352   555.271     2.592        0.
+# Feb 15 17:01 NGC1068_final_skysub[258:260,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4880.196  645.6985   1505.48    -2.332   633.985     2.231        0.
+# Feb 15 17:01 NGC1068_final_skysub[259:261,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4880.023  621.2388   1666.33    -2.682    791.86     1.977        0.
+# Feb 15 17:01 NGC1068_final_skysub[260:262,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.963  586.5492   1926.37    -3.284   1117.59     1.619        0.
+# Feb 15 17:01 NGC1068_final_skysub[261:263,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.929  530.8519    2142.2    -4.035    1357.2     1.483        0.
+# Feb 15 17:01 NGC1068_final_skysub[262:264,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.939  460.9951   2216.38    -4.808   1515.04     1.374        0.
+# Feb 15 17:01 NGC1068_final_skysub[263:265,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.926  383.3711   2113.86    -5.514   1519.15     1.307        0.
+# Feb 15 17:01 NGC1068_final_skysub[264:266,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.889  311.7785   1876.77     -6.02   1258.46     1.401        0.
+# Feb 15 17:01 NGC1068_final_skysub[265:267,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.878  266.1108   1477.53    -5.552   981.087     1.415        0.
+# Feb 15 17:01 NGC1068_final_skysub[266:268,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4924.441  160.1537  -22590.3     141.1   -623.54     34.04        0.
+# Feb 15 17:01 NGC1068_final_skysub[267:269,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.865  201.3648   719.715    -3.574   481.845     1.403        0.
+# Feb 15 17:01 NGC1068_final_skysub[268:270,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  5056.517 -104.6701  -64929.1     INDEF  -195.168     312.5        0.
+# Feb 15 17:01 NGC1068_final_skysub[269:271,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4826.666  12478.62 -1.4755E7     1182.  -12182.2     1138.        0.
+# Feb 15 17:01 NGC1068_final_skysub[270:272,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.898 -23594.14 10916562.     INDEF   23769.5     431.5        0.
+# Feb 15 17:01 NGC1068_final_skysub[271:273,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.669 -2926.526 61248692.     INDEF   3072.74    18726.        0.
+# Feb 15 17:01 NGC1068_final_skysub[272:274,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4553.027 -36251.11 1.66564E8     INDEF   35889.8     4360.        0.
+# Feb 15 17:01 NGC1068_final_skysub[273:275,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4865.797 -18011.38 1.52737E8     INDEF   18151.3     7905.        0.
+# Feb 15 17:01 NGC1068_final_skysub[274:276,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.716  125.3158   147.904     -1.18   146.758    0.9468        0.
+# Feb 15 17:01 NGC1068_final_skysub[275:277,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4799.678  2646.023 -1759980.     665.1  -2486.76     664.9        0.
+# Feb 15 17:01 NGC1068_final_skysub[276:278,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4921.662 -13682.85 34678620.     INDEF   13798.6     2361.        0.
+# Feb 15 17:01 NGC1068_final_skysub[277:279,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4824.083  337.5329   -45426.     134.6  -980.218     43.54        0.
+# Feb 15 17:01 NGC1068_final_skysub[278:280,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4883.736 -13066.01  6631299.     INDEF   13195.2     472.1        0.
+# Feb 15 17:01 NGC1068_final_skysub[279:281,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.796  120.0672   248.368    -2.069   54.7652      4.26        0.
+# Feb 15 17:01 NGC1068_final_skysub[280:282,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4883.732  128.1096   332.835    -2.598   35.8576      8.72        0.
+# Feb 15 17:01 NGC1068_final_skysub[281:283,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4805.879 -336.6965   69426.4     INDEF   406.778     160.3        0.
+# Feb 15 17:01 NGC1068_final_skysub[282:284,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.495  159.8443  -45.6055    0.2853   -254.58    0.1683        0.
+# Feb 15 17:01 NGC1068_final_skysub[283:285,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.505  138.4511  -28.4917    0.2058  -155.072    0.1726        0.
+# Feb 15 17:01 NGC1068_final_skysub[284:286,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4876.303  189.2645  -360.796     1.906  -137.861     2.459        0.
+# Feb 15 17:01 NGC1068_final_skysub[285:287,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.613 -368.5862   53695.1     INDEF   548.098     92.03        0.
+# Feb 15 17:01 NGC1068_final_skysub[286:288,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   4908.72  232.0088  -5373.02     23.16  -224.543     22.48        0.
+# Feb 15 17:01 NGC1068_final_skysub[287:289,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4996.441  91.15591 -4083841.    44801.  -284090.      13.5        0.
+# Feb 15 17:01 NGC1068_final_skysub[288:290,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.447  173.1431   294.638    -1.702   230.653       1.2        0.
+# Feb 15 17:01 NGC1068_final_skysub[289:291,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4880.132  148.8513   277.699    -1.866   47.2762     5.518        0.
+# Feb 15 17:01 NGC1068_final_skysub[290:292,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.383   158.162   393.638    -2.489   284.393       1.3        0.
+# Feb 15 17:01 NGC1068_final_skysub[291:293,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4873.377  -271.773   19326.7     INDEF   444.971      40.8        0.
+# Feb 15 17:01 NGC1068_final_skysub[292:294,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   4868.16 -1518049. 5.77430E9     INDEF  1518213.     3573.        0.
+# Feb 15 17:01 NGC1068_final_skysub[293:295,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4899.081  244.4446  -3504.81     14.34  -126.742     25.98        0.
+# Feb 15 17:01 NGC1068_final_skysub[294:296,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.332  128.0828   1154.61    -9.015   44.3963     24.43        0.
+# Feb 15 17:01 NGC1068_final_skysub[295:297,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4883.619  89.59946   1983.12    -22.13   84.5017     22.05        0.
+# Feb 15 17:01 NGC1068_final_skysub[296:298,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.697  131.1815   405.052    -3.088   327.752     1.161        0.
+# Feb 15 17:01 NGC1068_final_skysub[297:299,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.572  113.6546   514.524    -4.527   282.778     1.709        0.
+# Feb 15 17:01 NGC1068_final_skysub[298:300,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.764  147.8322  -45.4778    0.3076  -47.4951    0.8995        0.
+# Feb 15 17:01 NGC1068_final_skysub[299:301,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4883.035  135.9749  -46.5483    0.3423   -60.715    0.7202        0.
+# Feb 15 17:01 NGC1068_final_skysub[300:302,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.288  150.5515  -74.5643    0.4953  -61.1619     1.145        0.
+# Feb 15 17:01 NGC1068_final_skysub[301:303,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4880.868  96.24019  -22.6649    0.2355   -118.93     0.179        0.
+# Feb 15 17:01 NGC1068_final_skysub[302:304,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4809.916  725.4152  -307639.     424.1  -485.868     594.8        0.
+# Feb 15 17:01 NGC1068_final_skysub[303:305,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.291  119.7661   435.659    -3.638   305.195     1.341        0.
+# Feb 15 17:01 NGC1068_final_skysub[304:306,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.262  118.0536   447.233    -3.788   301.278     1.395        0.
+# Feb 15 17:01 NGC1068_final_skysub[305:307,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4737.703  1996.199  -662453.     331.9  -1358.86      458.        0.
+# Feb 15 17:01 NGC1068_final_skysub[306:308,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.078   125.198   -32.439    0.2591  -79.7947    0.3819        0.
+# Feb 15 17:01 NGC1068_final_skysub[307:309,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4852.287  8736849. -4.595E11    52589. -8736614.    49405.        0.
+# Feb 15 17:01 NGC1068_final_skysub[308:310,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   4873.14  241.9017  -1248.71     5.162  -145.311     8.073        0.
+# Feb 15 17:01 NGC1068_final_skysub[309:311,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4836.158  311.3172  -68381.9     219.7  -2097.95     30.62        0.
+# Feb 15 17:01 NGC1068_final_skysub[310:312,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.744 -14521.79  3646112.     INDEF   14673.4     233.4        0.
+# Feb 15 17:01 NGC1068_final_skysub[311:313,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.262  101.8304   403.098    -3.959   313.219     1.209        0.
+# Feb 15 17:01 NGC1068_final_skysub[312:314,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   4880.67 -16398.65  5076335.     INDEF    16549.     288.2        0.
+# Feb 15 17:01 NGC1068_final_skysub[313:315,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4892.255  135.0837  -257.454     1.906  -175.989     1.374        0.
+# Feb 15 17:01 NGC1068_final_skysub[314:316,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.089  107.6696   340.287     -3.16   431.245    0.7413        0.
+# Feb 15 17:01 NGC1068_final_skysub[315:317,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.058  108.2333   387.775    -3.583    448.98    0.8114        0.
+# Feb 15 17:01 NGC1068_final_skysub[316:318,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.949  76.15377   1135.07     -14.9   90.7719     11.75        0.
+# Feb 15 17:01 NGC1068_final_skysub[317:319,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.077  119.1372   455.976    -3.827   489.055    0.8759        0.
+# Feb 15 17:01 NGC1068_final_skysub[318:320,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4879.081  110.9133   533.626    -4.811   593.244     0.845        0.
+# Feb 15 17:01 NGC1068_final_skysub[319:321,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   1402.83  9926.963 -4.1779E7     4209.  -17205.9     2281.        0.
+# Feb 15 17:01 NGC1068_final_skysub[320:322,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4863.037  14329.14 -2.0288E8    14158.  -14156.8    13463.        0.
+# Feb 15 17:01 NGC1068_final_skysub[321:323,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4878.904  104.9277   879.082    -8.378   981.889    0.8411        0.
+# Feb 15 17:01 NGC1068_final_skysub[322:324,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.077  6.689087   3259.73    -487.3   208.553     14.68        0.
+# Feb 15 17:01 NGC1068_final_skysub[323:325,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4812.374 -149528.4 2.57824E9     INDEF   149778.    16171.        0.
+# Feb 15 17:01 NGC1068_final_skysub[324:326,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   4814.59  6417.917 -8649186.     1348.  -6037.45     1346.        0.
+# Feb 15 17:01 NGC1068_final_skysub[325:327,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   4890.77  143.3947  -927.055     6.465  -80.9134     10.76        0.
+# Feb 15 17:01 NGC1068_final_skysub[326:328,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.058  134.2136  -154.499     1.151  -105.649     1.374        0.
+# Feb 15 17:01 NGC1068_final_skysub[327:329,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+   9609.33 -6468.104 -1.3676E8     INDEF  -26624.8     4826.        0.
+# Feb 15 17:01 NGC1068_final_skysub[328:330,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4880.649 -3590.351   446643.     INDEF   3723.09     112.7        0.
+# Feb 15 17:01 NGC1068_final_skysub[329:331,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4878.796    70.951   625.189    -8.812   596.396    0.9848        0.
+# Feb 15 17:01 NGC1068_final_skysub[330:332,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+    4884.7 -134.6047   7768.68     INDEF    232.04     31.45        0.
+# Feb 15 17:01 NGC1068_final_skysub[331:333,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.644  84.18346  -109.591     1.302  -104.292    0.9872        0.
+# Feb 15 17:01 NGC1068_final_skysub[332:334,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4882.316  79.47147  -146.123     1.839  -86.9223     1.579        0.
+# Feb 15 17:01 NGC1068_final_skysub[333:335,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.815  80.87198  -156.071      1.93  -112.445     1.304        0.
+# Feb 15 17:01 NGC1068_final_skysub[334:336,*]: NGC1068
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.793  76.77617  -177.357      2.31  -125.312      1.33        0.

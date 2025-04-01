@@ -1,0 +1,3 @@
+cenwave=5577
+flux=7358
+gfwhm=5.147

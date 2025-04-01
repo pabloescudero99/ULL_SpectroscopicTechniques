@@ -1,0 +1,10 @@
+
+Feb  1 16:58 [WHT9899.fits[250,*]]: ARC BLUE
+avg:      960.1  rms:      15.65   snr:    61.37
+
+Feb  6 15:15 [WHT9899.fits[250,*]]: ARC BLUE
+avg:      969.4  rms:      57.66   snr:    16.81
+
+Feb 24 16:56 [NGC1068_final_skysub.fits[242,*]]: NGC1068
+    center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.675  418.8452   3556.51    -8.491   2287.24     1.461        0.

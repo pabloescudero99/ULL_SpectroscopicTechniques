@@ -1,0 +1,21 @@
+
+Feb  6 15:12 [./DATOS/WHT9899.fits[250,*]]: ARC BLUE
+
+Feb  6 15:13 [./DATOS/WHT9899.fits[250,*]]: ARC BLUE
+avg:      1315.  rms:      402.9   snr:     3.26
+avg:      963.8  rms:      55.39   snr:    17.40
+
+Feb 15 16:14 [DATOS/NGC1068_final_skysub[242,*]]: NGC1068
+    center      cont      flux       eqw      core     gfwhm     lfwhm
+  4881.674  374.2052   3724.16    -9.952   2307.32     1.516        0.
+  4881.674  422.4546   3543.34    -8.388   2285.53     1.456        0.
+
+Feb 15 16:31 [DATOS/NGC1068_final_skysub[242,*]]: NGC1068
+  4881.675  393.9992   3648.74    -9.261   2298.64     1.491        0.
+
+Feb 15 16:32 [DATOS/NGC1068_final_skysub[242,*]]: NGC1068
+  4881.675  423.4621   3539.69    -8.359   2285.06     1.455        0.
+
+Feb 20 16:17 [DATOS/IC289_02_w[242,*]]: ic289
+    center      cont      flux       eqw      core     gfwhm     lfwhm
+  5577.006  178.4854   7357.91    -41.22   1343.07     5.147        0.
